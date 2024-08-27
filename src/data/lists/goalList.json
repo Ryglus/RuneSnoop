@@ -1,0 +1,64 @@
+{
+    "channelId": "1250209075325571103",
+    "goals": [
+       
+        {
+            "skill": "Construction",
+            "list": [{
+                "level":65,
+                "rate": 1,
+                "extra_image": "Restoration pool built"
+            },{
+                "level":81,
+                "rate": 1,
+                "extra_image": "Basic jewellery box built"
+            }]
+        },
+        {
+            "skill": "Slayer",
+            "list": [
+                {
+                    "level": 95,
+                    "rate": 1,
+                    "extra_image": "Hydra leather"
+                },
+                {
+                    "level": 93,
+                    "rate": 1,
+                    "extra_image": "Occult necklace"
+                },
+                {
+                    "level": 91,
+                    "rate": 1,
+                    "extra_image": "Primordial_crystal"
+                },
+                {
+                    "level": 87,
+                    "rate": 1,
+                    "extra_image": "Uncharged trident"
+                },
+                {
+                    "level": 85,
+                    "rate": 1,
+                    "extra_image": "Abyssal whip"
+                },
+                {
+                    "level": 83,
+                    "rate": 1,
+                    "extra_image": "dragon boots"
+                }
+            ]
+        },
+        {
+            "skill": "Herblore",
+            "level": 70,
+            "rate": 1
+        },
+        {
+            "skill": "Prayer",
+            "level": 77,
+            "rate": 6,
+            "extra_image": "blessed bone shards"
+        }
+    ]
+}

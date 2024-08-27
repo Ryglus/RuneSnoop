@@ -1,0 +1,132 @@
+{
+    "lamps": [
+        {
+            "quest_name": "X Marks the Spot",
+            "experience_reward": 300
+        },
+        {
+            "quest_name": "Client of Kourend",
+            "experience_reward": 1000
+        },
+        {
+            "quest_name": "Fairytale II - Cure a Queen",
+            "experience_reward": 2500
+        },
+        {
+            "quest_name": "A Tail of Two Cats",
+            "experience_reward": 5000
+        },
+        {
+            "quest_name": "The Great Brain Robbery",
+            "experience_reward": 5000
+        },
+        {
+            "quest_name": "King's Ransom",
+            "experience_reward": 5000
+        },
+        {
+            "quest_name": "Darkness of Hallowvale",
+            "experience_reward": 6000
+        },
+        {
+            "quest_name": "A Taste of Hope",
+            "experience_reward": 7500
+        },
+        {
+            "quest_name": "A Kingdom Divided",
+            "experience_reward": 20000
+        },
+        {
+            "quest_name": "In Search of Knowledge",
+            "experience_reward": 10000
+        },
+        {
+            "quest_name": "Curse of the Empty Lord",
+            "experience_reward": 10000
+        },
+        {
+            "quest_name": "One Small Favour",
+            "experience_reward": 20000
+        },
+        {
+            "quest_name": "Recipe for Disaster",
+            "experience_reward": 20000
+        },
+        {
+            "quest_name": "Sins of the Father",
+            "experience_reward": 90000
+        }
+    ],
+    "herblore": [
+        {
+            "quest_name": "Druidic Ritual",
+            "experience_reward": 250,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "At First Light",
+            "experience_reward": 500,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "Jungle Potion",
+            "experience_reward": 775,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "Recruitment Drive",
+            "experience_reward": 1000,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "Heroes' Quest",
+            "experience_reward": 1325,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "The Dig Site",
+            "experience_reward": 2000,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "Shades of Mort'ton",
+            "experience_reward": 2000,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "Shades of Mort'ton - Diary of Herbi Flax",
+            "experience_reward": 335,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "Zogre Flesh Eaters",
+            "experience_reward": 2000,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "Fairytale II - Cure a Queen",
+            "experience_reward": 3500,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "Land of the Goblins",
+            "experience_reward": 8000,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "My Arm's Big Adventure",
+            "experience_reward": 10000,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "Eadgar's Ruse",
+            "experience_reward": 11000,
+            "herblore_xp": true
+        },
+        {
+            "quest_name": "Grim Tales",
+            "experience_reward": 15000,
+            "herblore_xp": true
+        }
+    ]
+}

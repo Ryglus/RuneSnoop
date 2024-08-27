@@ -1,0 +1,474 @@
+{
+    "A Kingdom Divided": {
+        "price": 22000000
+    },
+    "A Night at the Theatre": {
+        "price": 25000000,
+        "colour": "red"
+    },
+    "A Porcine of Interest": {
+        "price": 4000000
+    },
+    "A Soul's Bane": {
+        "price": 8000000
+    },
+    "A Tail of Two Cats": {
+        "price": 10000000
+    },
+    "A Taste of Hope": {
+        "price": 10000000
+    },
+    "Animal Magnetism": {
+        "price": 10000000
+    },
+    "Another Slice of H.A.M.": {
+        "price": 7000000
+    },
+    "At First Light": {
+        "price": 4000000,
+        "colour": "blue"
+    },
+    "Beneath Cursed Sands": {
+        "price": 15000000
+    },
+    "Between a Rock...": {
+        "price": 10000000
+    },
+    "Big Chompy Bird Hunting": {
+        "price": 7000000
+    },
+    "Biohazard": {
+        "price": 5000000
+    },
+    "Bone Voyage": {
+        "price": 7000000
+    },
+    "Cabin Fever": {
+        "price": 10000000
+    },
+    "Client of Kourend": {
+        "price": 5000000
+    },
+    "Children of the Sun": {
+        "price": 5000000
+    },
+    "Clock Tower": {
+        "price": 4000000
+    },
+    "Cold War": {
+        "price": 10000000
+    },
+    "Contact": {
+        "price": 10000000
+    },
+    "Creature of Fenkenstrain": {
+        "price": 10000000
+    },
+    "Darkness of Hallowvale": {
+        "price": 15000000
+    },
+    "Death Plateau": {
+        "price": 5000000
+    },
+    "Death to the Dorgeshuun": {
+        "price": 10000000
+    },
+    "Defender of Varrock": {
+        "price": 12000000
+    },
+    "Desert Treasure I": {
+        "price": 15000000
+    },
+    "Desert Treasure II - The Fallen Empire": {
+        "price": 80000000,
+        "colour": "red"
+    },
+    "Devious Minds": {
+        "price": 10000000
+    },
+    "Dragon Slayer II": {
+        "price": 50000000
+    },
+    "Dream Mentor": {
+        "price": 12000000
+    },
+    "Druidic Ritual": {
+        "price": 4000000
+    },
+    "Dwarf Cannon": {
+        "price": 5000000
+    },
+    "Eadgar's Ruse": {
+        "price": 8000000,
+        "colour": "blue"
+    },
+    "Eagles' Peak": {
+        "price": 5000000
+    },
+    "Elemental Workshop I": {
+        "price": 4000000
+    },
+    "Elemental Workshop II": {
+        "price": 7000000
+    },
+    "Enakhra's Lament": {
+        "price": 10000000
+    },
+    "Enlightened Journey": {
+        "price": 7000000
+    },
+    "Fairytale I": {
+        "price": 10000000
+    },
+    "Fairytale II - Cure a Queen": {
+        "price": 10000000
+    },
+    "Family Crest": {
+        "price": 10000000
+    },
+    "Fight Arena": {
+        "price": 7000000
+    },
+    "Fishing Contest": {
+        "price": 4000000
+    },
+    "Forgettable Tale...": {
+        "price": 15000000
+    },
+    "Garden of Tranquillity": {
+        "price": 15000000
+    },
+    "Gertrude's Cat": {
+        "price": 4000000
+    },
+    "Getting Ahead": {
+        "price": 7000000
+    },
+    "Ghosts Ahoy": {
+        "price": 10000000
+    },
+    "Grim Tales": {
+        "price": 12000000,
+        "colour": "blue"
+    },
+    "Haunted Mine": {
+        "price": 10000000
+    },
+    "Hazeel Cult": {
+        "price": 4000000
+    },
+    "Heroes' Quest": {
+        "price": 12000000,
+        "colour": "blue"
+    },
+    "Holy Grail": {
+        "price": 7000000
+    },
+    "Horror from the Deep": {
+        "price": 7000000
+    },
+    "Icthlarin's Little Helper": {
+        "price": 10000000
+    },
+    "In Aid of the Myreque": {
+        "price": 10000000
+    },
+    "In Search of the Myreque": {
+        "price": 7000000
+    },
+    "Jungle Potion": {
+        "price": 5000000,
+        "colour": "blue"
+    },
+    "King's Ransom": {
+        "price": 10000000,
+        "colour": "blue"
+    },
+    "Legends' Quest": {
+        "price": 12000000
+    },
+    "Lost City": {
+        "price": 7000000
+    },
+    "Lunar Diplomacy": {
+        "price": 12000000
+    },
+    "Making Friends with My Arm": {
+        "price": 12000000
+    },
+    "Making History": {
+        "price": 7000000
+    },
+    "Merlin's Crystal": {
+        "price": 7000000
+    },
+    "Monk's Friend": {
+        "price": 4000000
+    },
+    "Monkey Madness I": {
+        "price": 12000000
+    },
+    "Monkey Madness II": {
+        "price": 50000000
+    },
+    "Mountain Daughter": {
+        "price": 10000000
+    },
+    "Mourning's End Part I": {
+        "price": 12000000
+    },
+    "Mourning's End Part II": {
+        "price": 25000000
+    },
+    "Murder Mystery": {
+        "price": 5000000
+    },
+    "My Arm's Big Adventure": {
+        "price": 8000000,
+        "colour": "blue"
+    },
+    "Nature Spirit": {
+        "price": 7000000
+    },
+    "Observatory Quest": {
+        "price": 7000000
+    },
+    "Olaf's Quest": {
+        "price": 7000000
+    },
+    "One Small Favour": {
+        "price": 12000000,
+        "colour": "blue"
+    },
+    "Plague City": {
+        "price": 4000000
+    },
+    "Priest in Peril": {
+        "price": 5000000
+    },
+    "Rag and Bone Man I": {
+        "price": 5000000
+    },
+    "Rag and Bone Man II": {
+        "price": 20000000
+    },
+    "Ratcatchers": {
+        "price": 10000000
+    },
+    "Another Cook's Quest": {
+        "price": 6000000
+    },
+    "Recipe for Disaster - Culinaromancer": {
+        "price": 6000000
+    },
+    "Recipe for Disaster - Evil Dave": {
+        "price": 8000000
+    },
+    "Recipe for Disaster - King Awowogei": {
+        "price": 12000000
+    },
+    "Recipe for Disaster - Pirate Pete": {
+        "price": 8000000
+    },
+    "Recipe for Disaster - Sir Amik Varze": {
+        "price": 8000000
+    },
+    "Recipe for Disaster - Skrach Uglogwee": {
+        "price": 8000000
+    },
+    "Recipe for Disaster - Wartface & Bentnoze": {
+        "price": 6000000
+    },
+    "Recipe for Disaster - Lumbridge Guide": {
+        "price": 6000000
+    },
+    "Recipe for Disaster - Mountain Dwarf": {
+        "price": 6000000
+    },
+    "Recruitment Drive": {
+        "price": 5000000
+    },
+    "Regicide": {
+        "price": 12000000
+    },
+    "Roving Elves": {
+        "price": 10000000
+    },
+    "Royal Trouble": {
+        "price": 10000000
+    },
+    "Rum Deal": {
+        "price": 10000000
+    },
+    "Scorpion Catcher": {
+        "price": 7000000
+    },
+    "Sea Slug": {
+        "price": 7000000
+    },
+    "Shades of Mort'ton": {
+        "price": 7000000,
+        "colour": "blue"
+    },
+    "Shadow of the Storm": {
+        "price": 10000000
+    },
+    "Sheep Herder": {
+        "price": 5000000
+    },
+    "Shilo Village": {
+        "price": 10000000
+    },
+    "Sins of the Father": {
+        "price": 25000000,
+        "colour": "blue"
+    },
+    "Song of the Elves": {
+        "price": 50000000
+    },
+    "Spirits of the Elid": {
+        "price": 7000000
+    },
+    "Swan Song": {
+        "price": 12000000
+    },
+    "Sleeping Giants": {
+        "price": 7000000
+    },
+    "Secrets of the North": {
+        "price": 12000000
+    },
+    "Tai Bwo Wannai Trio": {
+        "price": 10000000
+    },
+    "Tale of the Righteous": {
+        "price": 7000000
+    },
+    "Tears of Guthix": {
+        "price": 5000000
+    },
+    "Temple of Ikov": {
+        "price": 10000000
+    },
+    "Temple of the Eye": {
+        "price": 7000000
+    },
+    "The Ascent of Arceuus": {
+        "price": 7000000
+    },
+    "The Depths of Despair": {
+        "price": 7000000
+    },
+    "The Dig Site": {
+        "price": 10000000
+    },
+    "The Eyes of Glouphrie": {
+        "price": 10000000
+    },
+    "The Feud": {
+        "price": 10000000
+    },
+    "The Forsaken Tower": {
+        "price": 7000000
+    },
+    "The Fremennik Exiles": {
+        "price": 12000000
+    },
+    "The Fremennik Isles": {
+        "price": 10000000
+    },
+    "The Fremennik Trials": {
+        "price": 10000000
+    },
+    "The Giant Dwarf": {
+        "price": 10000000
+    },
+    "The Golem": {
+        "price": 7000000
+    },
+    "The Grand Tree": {
+        "price": 10000000
+    },
+    "The Great Brain Robbery": {
+        "price": 10000000
+    },
+    "The Hand in the Sand": {
+        "price": 7000000
+    },
+    "The Lost Tribe": {
+        "price": 7000000
+    },
+    "The Queen of Thieves": {
+        "price": 5000000
+    },
+    "The Slug Menace": {
+        "price": 10000000
+    },
+    "The Tourist Trap": {
+        "price": 10000000
+    },
+    "Throne of Miscellania": {
+        "price": 10000000
+    },
+    "Tower of Life": {
+        "price": 7000000
+    },
+    "Tree Gnome Village": {
+        "price": 7000000
+    },
+    "Tribal Totem": {
+        "price": 5000000
+    },
+    "Troll Romance": {
+        "price": 7000000
+    },
+    "Troll Stronghold": {
+        "price": 7000000
+    },
+    "The Garden of Death": {
+        "price": 7000000
+    },
+    "Underground Pass": {
+        "price": 12000000
+    },
+    "Wanted!": {
+        "price": 10000000
+    },
+    "Watchtower": {
+        "price": 10000000
+    },
+    "Waterfall Quest": {
+        "price": 7000000
+    },
+    "What Lies Below": {
+        "price": 5000000
+    },
+    "Witch's House": {
+        "price": 5000000
+    },
+    "Zogre Flesh Eaters": {
+        "price": 7000000
+    },
+    "Land of the Goblins": {
+        "price": 10000000,
+        "colour": "blue"
+    },
+    "Perilous Moons": {
+        "price": 15000000,
+        "colour": "blue"
+    },
+    "Twilight's Promise": {
+        "price": 3000000
+    },
+    "The Path of Glouphrie": {
+        "price": 9000000,
+        "colour": "blue"
+    },
+    "The Ribbiting Tale of a Lily Pad Labour Dispute": {
+        "price": 3000000
+    },
+    "Mage Arena II": {
+        "price": 25000000,
+        "colour": "blue"
+    }
+}

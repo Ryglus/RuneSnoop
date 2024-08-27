@@ -1,0 +1,2090 @@
+{
+  "Ardougne": {
+    "Easy": [
+      {
+        "task": "1. Have Wizard Cromperty teleport you to the Rune essence mine (right-click him to Teleport).",
+        "requirements": "Completion of Rune Mysteries"
+      },
+      {
+        "task": "2. Steal a cake from the East Ardougne market stalls.",
+        "requirements": "5 Thieving"
+      },
+      {
+        "task": "3. Sell silk to the Silk trader in East Ardougne for 60 coins each.",
+        "requirements": "Silk\nCan be stolen from his silk stall with 20 Thieving, however 10 consecutive in-game minutes outside of Ardougne must pass from the last stolen silk before he talks to you. Time spent while logged out does not count and will reset the duration.\nYou must first offer to sell your silk for 120 coins, he will counter offer 50 coins, then you can select 60."
+      },
+      {
+        "task": "4. Use the altar in East Ardougne's church (requires less than full Prayer points).",
+        "requirements": "None"
+      },
+      {
+        "task": "5. Go out fishing on the Fishing Trawler (you only need to start the minigame)",
+        "requirements": "None"
+      },
+      {
+        "task": "6. Enter the Combat Training Camp north of West Ardougne.",
+        "requirements": "Completion of Biohazard"
+      },
+      {
+        "task": "7. Have Tindel Marchant identify a rusty sword for you.",
+        "requirements": "Rusty sword and 100 coins\nYou might need to do this more than once, as there is a 1/96 chance the sword turns out to be nothing"
+      },
+      {
+        "task": "8. Use the Ardougne lever to teleport to the Wilderness (you may pull the lever there to return).",
+        "requirements": "None"
+      },
+      {
+        "task": "9. View Aleck's Hunter Emporium in Yanille.",
+        "requirements": "None"
+      },
+      {
+        "task": "10. Check what pets you have insured with Probita in East Ardougne (right-click her to Check).",
+        "requirements": "None"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Enter the unicorn pen in Ardougne Zoo using Fairy rings (BIS).",
+        "requirements": "Started Fairytale II - Cure a Queen\nDramen or Lunar staff"
+      },
+      {
+        "task": "2. Grapple over Yanille's south wall and jump off.",
+        "requirements": "39 Agility,  38 Strength and  21 Ranged\nMith grapple and any crossbow"
+      },
+      {
+        "task": "3. Harvest some strawberries from the Ardougne farming patch.",
+        "requirements": "31 Farming\n3 strawberry seeds, spade, rake and a seed dibber\nRecommended: a basket of apples to pay the nearby gardener to make sure the crop grows"
+      },
+      {
+        "task": "4. Cast the Ardougne Teleport spell.",
+        "requirements": "Completion of Plague City\n 51 Magic and means to cast Ardougne Teleport (   2       2          )"
+      },
+      {
+        "task": "5. Travel to Castle Wars by Hot Air Balloon.",
+        "requirements": "Completion of Enlightened Journey\n 50 Firemaking\nYew log\nIf the route has not been unlocked yet, a total of 11 yew logs and one regular log are needed to unlock the trip, then fly back and forth once."
+      },
+      {
+        "task": "6. Claim buckets of sand from Bert in Yanille.Ultimate Ironman  only; Fill a bucket with sand using Bert's sand pit.",
+        "requirements": "Completion of The Hand in the Sand unless you are an Ultimate Ironman  in which case you just use your bucket on Bert's sand pit; Bucket"
+      },
+      {
+        "task": "7. Catch any fish on the Fishing Platform.",
+        "requirements": "Started Sea Slug\nFishing rod and bait, or a small fishing net"
+      },
+      {
+        "task": "8. Pickpocket the master farmer north of East Ardougne.",
+        "requirements": "38 Thieving"
+      },
+      {
+        "task": "9. Collect some cave nightshade from the Skavid caves (can be found in the northernmost cave).",
+        "requirements": "Partial completion of Watchtower\nAny light source and the Skavid map"
+      },
+      {
+        "task": "10. Kill a swordchick in the Tower of Life (south-west in the basement).",
+        "requirements": "Completion of Tower of Life\nRaw chicken and raw swordfish"
+      },
+      {
+        "task": "11. Equip* an Iban's upgraded staff or upgrade an Iban's staff.",
+        "requirements": "Completion of Underground Pass\nIban's upgraded staff, or 200,000 coins and Iban's staff to have the Dark Mage in West Ardougne upgrade it."
+      },
+      {
+        "task": "12. Visit the island east of the Necromancer Tower (AIR).",
+        "requirements": "Started Fairytale II - Cure a Queen\nDramen or Lunar staff"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Recharge some jewellery at the Totem pole in the Legends' Guild.",
+        "requirements": "Completion of Legends' Quest\nLess than fully charged skills necklace or combat bracelet"
+      },
+      {
+        "task": "2. Enter the Magic Guild.",
+        "requirements": "66 Magic"
+      },
+      {
+        "task": "3. Attempt to steal from a chest in Ardougne Castle.",
+        "requirements": "72 Thieving\nLockpick is recommended"
+      },
+      {
+        "task": "4. Have a zookeeper put you in Ardougne Zoo's monkey cage.",
+        "requirements": "Partial completion of the Monkey Madness I quest\nKaramjan monkey greegree"
+      },
+      {
+        "task": "5. Teleport to the Watchtower.",
+        "requirements": "Completion of Watchtower\n 58 Magic and means to cast the Watchtower teleport ( 2         2          )"
+      },
+      {
+        "task": "6. Catch a Red Salamander.",
+        "requirements": "59 Hunter\nRope and small fishing net"
+      },
+      {
+        "task": "7. Check the health of a palm tree near Tree Gnome Village (the patch next to Gileth).",
+        "requirements": "68 Farming\nPalm sapling, spade and a rake\nRecommended: 15 Papaya fruit to pay the gardener"
+      },
+      {
+        "task": "8. Pick some poison ivy berries from the patch south of East Ardougne (Near the Ardougne Monastery).",
+        "requirements": "70 Farming\nPoison ivy seed, seed dibber and a rake"
+      },
+      {
+        "task": "9. Smith a Mithril platebody near Ardougne (the Port Khazard, Yanille, or West Ardougne anvil).",
+        "requirements": "68 Smithing\n5 mithril bars and a hammer"
+      },
+      {
+        "task": "10. Enter your POH from Yanille.",
+        "requirements": "50 Construction(not boostable)\n25,000 coins if your house is not yet in Yanille"
+      },
+      {
+        "task": "11. Smith a Dragon sq shield in West Ardougne.",
+        "requirements": "60 Smithing\nShield left half, shield right half and a hammer"
+      },
+      {
+        "task": "12. Craft some Death runes from Essence.",
+        "requirements": "Completion of Mourning's End Part II\n 65 Runecraft\nPure or daeyalt essence\nGuardian essence from Guardians of the Rift will not work\nAccess to the Death Altar (death talisman, death tiara, catalytic tiara, or the Abyss)\nIf entering via the Mourner Headquarters, mourner gear and a crystal trinket are also required"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Catch a manta ray in the Fishing Trawler and cook it in Port Khazard.\nNote: Completing or updating any other task, including those from other diaries, will reset the progress for this task. Leaving Port Khazard will not reset your progress.",
+        "requirements": "81 Fishing(not boostable) and  91 Cooking\nMultiple raw manta rays may be needed in case the player burns them"
+      },
+      {
+        "task": "2. Successfully picklock the door to the basement of Yanille Agility dungeon.",
+        "requirements": "82 Thieving\nLockpick"
+      },
+      {
+        "task": "3. Pickpocket a hero.",
+        "requirements": "80 Thieving"
+      },
+      {
+        "task": "4. Make a rune crossbow yourself from scratch within Witchaven or Yanille.You must use the spinning wheel in Witchaven to make the crossbow string, and the anvil inYanille to make the runite limbs. Make sure you make the yew stock in Yanille or Witchhaven, or else your achievement will not be completed. Finally, finish making the crossbow in either of the two towns.",
+        "requirements": "10 Crafting,  91 Smithing and  69 Fletching\nYew logs, runite bar, hammer, knife, and sinew or a tree root."
+      },
+      {
+        "task": "5. Imbue a salve amulet at Nightmare Zone, or equip a salve amulet(i) that was imbued there.",
+        "requirements": "Completion of the Haunted Mine\nAccess to the Nightmare Zone\nSalve amulet(i) or Salve amulet(ei), or the regular Salve amulet and 800,000 Nightmare Zone points to imbue it (400,000 with hard tier of the Combat Achievements completed)"
+      },
+      {
+        "task": "6. Pick some torstol from the patch north of East Ardougne.",
+        "requirements": "85 Farming\nTorstol seed, seed dibber and a rake\nUltracompost is recommended"
+      },
+      {
+        "task": "7. Complete a lap of Ardougne's rooftop agility course.",
+        "requirements": "90 Agility"
+      },
+      {
+        "task": "8. Cast Ice Barrage on another player within Castle Wars. Splashing does not count.The task is automatically completed in Deadman worlds by entering the Castle Wars lobby, if the requirements for completing the task are met beforehand.",
+        "requirements": "Completion of Desert Treasure I\n 94 Magic (boostable from  85  with a Castlewars brew or from  82  with a Saturated heart) and means to cast Ice Barrage (   6  2    4           )"
+      }
+    ]
+  },
+  "Desert": {
+    "Easy": [
+      {
+        "task": "1. Catch a golden warbler.",
+        "requirements": "5 Hunter\nBird snare\nRecommended: Necklace of passage to Eagle's Eyrie"
+      },
+      {
+        "task": "2. Mine five clay in the north-eastern desert.",
+        "requirements": "Any pickaxe\nRecommended: Necklace of passage to Eagle's Eyrie\nNote: There are clay rocks near the golden warbler spawn."
+      },
+      {
+        "task": "3. Enter the Kalphite Hive.",
+        "requirements": "Rope"
+      },
+      {
+        "task": "4. Enter the Desert with a set of desert robes equipped.",
+        "requirements": "Desert shirt, robe, and boots\nThe desert robes from Rogue Trader and the black desert robes cannot be used"
+      },
+      {
+        "task": "5. Kill a vulture (can be found north-west of Agility Pyramid).",
+        "requirements": "Weaponry to kill it, preferably Ranged or Magic."
+      },
+      {
+        "task": "6. Have the Nardah herbalist (Zahur) clean a herb for you.",
+        "requirements": "Any grimy herb and 200 coins\nRecommended: Nardah teleport"
+      },
+      {
+        "task": "7. Collect 5 Potato Cactus from the Kalphite Hive.You can drop and pick up the same cactus five times inside the lair.",
+        "requirements": "Rope\nFood and antipoison are recommended if not bringing your own cactus"
+      },
+      {
+        "task": "8. Sell some artefacts to Simon Templeton.Note: The golden artefact from the top of the Agility Pyramid does not count.",
+        "requirements": "Any Pyramid Plunder artefact (e.g. Stone scarab)"
+      },
+      {
+        "task": "9. Open the sarcophagus in the first room of Pyramid Plunder.",
+        "requirements": "Started Icthlarin's Little Helper\n 21 Thieving"
+      },
+      {
+        "task": "10. Cut a desert cactus open to fill a waterskin.",
+        "requirements": "Knife or a slash weapon, and an empty waterskin"
+      },
+      {
+        "task": "11. Travel from the Shantay Pass to Pollnivneach by magic carpet.",
+        "requirements": "200 coins (5 more coins to buy a Shantay pass if entering the Desert via the pass)"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Climb to the summit of the Agility Pyramid (you must speak to Simon Templeton first).",
+        "requirements": "30 Agility\nRecommended: Waterskins and desert clothing or circlet of water"
+      },
+      {
+        "task": "2. Slay a desert lizard.",
+        "requirements": "22 Slayer\nIce cooler"
+      },
+      {
+        "task": "3. Catch an orange salamander.",
+        "requirements": "47 Hunter\nRope and a small fishing net"
+      },
+      {
+        "task": "4. Steal a Phoenix feather from the Desert phoenix.",
+        "requirements": "25 Thieving"
+      },
+      {
+        "task": "5. Travel to Uzer via magic carpet.",
+        "requirements": "Completion of The Golem\n200 coins (or 100 coins and a Ring of charos)"
+      },
+      {
+        "task": "6. Travel to the desert via the Eagle transport system.",
+        "requirements": "Completion of Eagles' Peak\nRope"
+      },
+      {
+        "task": "7. Pray at the Elidinis Statuette in Nardah (requires less than full Prayer points).",
+        "requirements": "Completion of Spirits of the Elid"
+      },
+      {
+        "task": "8. Create a combat potion in the desert (outside of desert cities).",
+        "requirements": "36 Herblore\nHarralander potion (unf) and goat horn dust"
+      },
+      {
+        "task": "9. Teleport to Enakhra's Temple with the Camulet.",
+        "requirements": "Completion of Enakhra's Lament\nCamulet"
+      },
+      {
+        "task": "10. Visit the genie (achieved during Spirits of the Elid).",
+        "requirements": "Rope and light source"
+      },
+      {
+        "task": "11. Teleport to Pollnivneach with a redirected teleport to house tablet.",
+        "requirements": "20 Construction\nScroll of redirection and a house tablet\nIronman only: You must instead enter your house via the Pollnivneach house portal."
+      },
+      {
+        "task": "12. Chop some teak logs near Uzer (the northern tree, south-east of the ruins).",
+        "requirements": "35 Woodcutting\nAny axe"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Knock out and pickpocket a Menaphite Thug.",
+        "requirements": "Partial completion of The Feud\n 65 Thieving\nAny blackjack"
+      },
+      {
+        "task": "2. Mine some granite.",
+        "requirements": "45 Mining\nAny pickaxe"
+      },
+      {
+        "task": "3. Refill your waterskins in the Desert using Lunar spells (outside the desert cities).",
+        "requirements": "Completion of Dream Mentor\n 68 Magic and means to cast Humidify (  1 3 1                )\nEmpty waterskin"
+      },
+      {
+        "task": "4. Kill the Kalphite Queen.",
+        "requirements": "Weaponry to kill it"
+      },
+      {
+        "task": "5. Complete a lap of the Pollnivneach Rooftop Course.",
+        "requirements": "70 Agility"
+      },
+      {
+        "task": "6. Slay a Dust devil in the desert cave with a Slayer helmet equipped.",
+        "requirements": "Started Desert Treasure I\n 65 Slayer(boostable) and  10 Defence\nSlayer helmet"
+      },
+      {
+        "task": "7. Activate Ancient Magicks at the altar in the Ancient Pyramid.",
+        "requirements": "Completion of Desert Treasure I"
+      },
+      {
+        "task": "8. Defeat a locust rider with Keris.",
+        "requirements": "Partial completion of Contact!\n 50 Attack\nKeris (or Keris partisan) and any light source\nNote that the Keris only needs to be equipped during its death animation,allowing you to deal damage with other weapons"
+      },
+      {
+        "task": "9. Burn some yew logs on the Nardah Mayor's balcony.",
+        "requirements": "60 Firemaking\nYew log and a tinderbox\nNote: Awusah the Mayor's house is directly east of the central fountain. The Spirits of the Elid quest starts there too and is marked on the world map."
+      },
+      {
+        "task": "10. Create a Mithril platebody in Nardah.",
+        "requirements": "68 Smithing\n5 mithril bars and a hammer"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Bake a wild pie at the Nardah clay oven.",
+        "requirements": "85 Cooking\nRaw wild pie"
+      },
+      {
+        "task": "2. Cast Ice Barrage against a foe in the Desert (outside of desert cities). It cannot splash.",
+        "requirements": "Completion of Desert Treasure I\n 94 Magic (can be boosted from  85  with a forgotten brew or imbued heart) and means to cast Ice Barrage (   6  2    4           )"
+      },
+      {
+        "task": "3. Fletch some Dragon darts at the Bedabin Camp.",
+        "requirements": "95 Fletching\nDragon dart tip and a feather."
+      },
+      {
+        "task": "4. Speak to the Kq head in your POH.",
+        "requirements": "Completion of Priest in Peril\n 78 Construction\nStuffed kq head, 2 mahogany planks, 2 gold leaves, a saw and a hammer\n15,000 coins are required if the player hasn't yet built a Skill Hall in their house"
+      },
+      {
+        "task": "5. Steal from the Grand Gold Chest in the final room of Pyramid Plunder.",
+        "requirements": "Started Icthlarin's Little Helper\n 91 Thieving(not boostable)"
+      },
+      {
+        "task": "6. Restore at least 85 Prayer points when praying at the altar in Sophanem.",
+        "requirements": "Started Icthlarin's Little Helper\n 85 Prayer(not boostable)"
+      }
+    ]
+  },
+  "Falador": {
+    "Easy": [
+      {
+        "task": "1. Find out what your family crest is from Sir Renitee (you must complete the dialogue).",
+        "requirements": "16 Construction"
+      },
+      {
+        "task": "2. Climb over the western Falador wall.",
+        "requirements": "5 Agility"
+      },
+      {
+        "task": "3. Browse Sarah's Farming Shop.",
+        "requirements": "None"
+      },
+      {
+        "task": "4. Get a haircut from the Falador hairdresser.",
+        "requirements": "None"
+      },
+      {
+        "task": "5. Fill a bucket from the pump north of Falador west bank.",
+        "requirements": "Bucket"
+      },
+      {
+        "task": "6. Kill a duck in Falador Park.",
+        "requirements": "None, although a Ranged weapon is recommended"
+      },
+      {
+        "task": "7. Make a mind tiara.",
+        "requirements": "Tiara and a mind talisman"
+      },
+      {
+        "task": "8. Take the boat to Entrana.",
+        "requirements": "Have no weapons or armour equipped or in your inventory."
+      },
+      {
+        "task": "9. Repair a broken strut in the Motherlode Mine.",
+        "requirements": "Hammer and any pickaxe"
+      },
+      {
+        "task": "10. Claim a security book from the Security Guard upstairs at Port Sarim jail.",
+        "requirements": "None"
+      },
+      {
+        "task": "11. Smith some Blurite limbs on Doric's anvil.",
+        "requirements": "Completion of The Knight's Sword and Doric's Quest\n 10 Mining and  13 Smithing\nHammer and a Blurite bar"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Light a bullseye lantern at the Chemist's in Rimmington.",
+        "requirements": "49 Firemaking\nTinderbox and a regular bullseye lantern"
+      },
+      {
+        "task": "2. Telegrab some Wine of zamorak at the Chaos Temple just outside the Wilderness",
+        "requirements": "33 Magic and means to cast Telegrab (1          1          )"
+      },
+      {
+        "task": "3. Unlock the crystal chest in Taverley.",
+        "requirements": "Crystal key"
+      },
+      {
+        "task": "4. Place a Scarecrow in the Falador farm flower patch.",
+        "requirements": "23 Farming (level 47 for Ironman accounts)\nBronze spear, watermelon and hay sack (you can fill an empty sack with hay nearby)"
+      },
+      {
+        "task": "5. Kill a Mogre at Mudskipper Point.",
+        "requirements": "Completion of Skippy and the Mogres\n 32 Slayer\nFishing explosive"
+      },
+      {
+        "task": "6. Visit the Port Sarim Rat Pits.",
+        "requirements": "Partial completion of Ratcatchers"
+      },
+      {
+        "task": "7. Grapple up and then jump off the north Falador wall.",
+        "requirements": "11 Agility,  37 Strength and  19 Ranged\nMith grapple and any crossbow"
+      },
+      {
+        "task": "8. Pickpocket a Falador guard.",
+        "requirements": "40 Thieving"
+      },
+      {
+        "task": "9. Pray at the Altar of Guthix in Taverley whilst wearing full Initiate armour.",
+        "requirements": "Completion of Recruitment Drive\n 10 Prayer and  20 Defence\nInitiate armour"
+      },
+      {
+        "task": "10. Mine some gold ore at the Crafting Guild.",
+        "requirements": "40 Crafting and  40 Mining\nAny pickaxe and a brown apron (or Crafting cape)"
+      },
+      {
+        "task": "11. Squeeze through the crevice in the Dwarven Mines.",
+        "requirements": "42 Agility"
+      },
+      {
+        "task": "12. Chop and burn some willow logs* in Taverley (can cut and burn willows just south along water)\n* Player-grown willow trees do not count towards completing the task.",
+        "requirements": "30 Woodcutting and  30 Firemaking\nAny axe and a tinderbox"
+      },
+      {
+        "task": "13. Craft a basket on the Falador farm loom.",
+        "requirements": "36 Crafting (and  30 Farming for Ironman accounts)\n6 Willow branches"
+      },
+      {
+        "task": "14. Teleport to Falador.",
+        "requirements": "37 Magic and means to cast Falador teleport (3   1       1          )"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Craft 140 mind runes simultaneously from Essence.",
+        "requirements": "56 Runecraft\n 42 Runecraft with 3+ Raiments of the Eye pieces\n28 pure, daeyalt, or rune essence\nMind cores do NOT count\nAccess to the Mind Altar (mind tiara, catalytic tiara, or the Abyss)"
+      },
+      {
+        "task": "2. Change your family crest to the Saradomin symbol (talk to Sir Renitee).",
+        "requirements": "70 Prayer(not boostable)\n5,000 coins"
+      },
+      {
+        "task": "3. Kill the Giant Mole beneath Falador Park.",
+        "requirements": "Spade, light source and weaponry to kill it"
+      },
+      {
+        "task": "4. Kill a Skeletal Wyvern in the Asgarnia Ice Dungeon.",
+        "requirements": "72 Slayer\nProtection from the wyvern's icy breath and weaponry to slay it"
+      },
+      {
+        "task": "5. Complete a lap of the Falador Rooftop Agility Course.",
+        "requirements": "50 Agility"
+      },
+      {
+        "task": "6. Enter the Mining Guild while wearing a prospector helmet.",
+        "requirements": "60 Mining\nProspector helmet, bought for 40 Golden nuggets in the Motherlode Mine. A golden prospector helmet will also work."
+      },
+      {
+        "task": "7. Kill the blue dragon under the Heroes' Guild.",
+        "requirements": "Completion of the Heroes' Quest\nProtection from dragonfire and weaponry to kill it"
+      },
+      {
+        "task": "8. Crack a wall safe within Rogues' Den (can only be the safes in the lobby).",
+        "requirements": "50 Thieving"
+      },
+      {
+        "task": "9. Recharge your Prayer in the Port Sarim church while wearing full Proselyte.",
+        "requirements": "Completion of The Slug Menace\n 30 Defence\n 20 Prayer\nFull Proselyte armour"
+      },
+      {
+        "task": "10. Enter the Warriors' Guild.",
+        "requirements": "130 combined levels in  Attack and  Strength, or level 99 in either"
+      },
+      {
+        "task": "11. Equip a Dwarven helmet within the Dwarven Mines.",
+        "requirements": "Completion of Grim Tales\n 50 Defence\nDwarven helmet"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Craft 252 Air Runes simultaneously from Essence without the use of Extracts.",
+        "requirements": "88 Runecraft\n 77 Runecraft with 2 Raiments of the Eye pieces\n 66 Runecraft with 3 Raiments of the Eye pieces\n 55 Runecraft with 4 Raiments of the Eye pieces\n28 pure, daeyalt, or rune essence\nAccess to the Air Altar (air tiara, elemental tiara, or the Abyss)"
+      },
+      {
+        "task": "2. Purchase a white 2h sword from Sir Vyvin.",
+        "requirements": "Completion of Wanted!\n1,920 coins\nRank of White Knight Master (Black Knight kill score of 1300, rank automatically starts at White Knight Novice, with a kill score of 100)."
+      },
+      {
+        "task": "3. Find at least 3 magic roots at once when digging up your magic tree in Falador (you need to cut the tree down yourself).",
+        "requirements": "91 Farming and  75 Woodcutting\nMagic sapling, spade and any axe"
+      },
+      {
+        "task": "4. Perform a Skillcape or Quest cape emote at the top of Falador Castle.",
+        "requirements": "Completion of all quests or level 99 in any skill\nAny Cape of Accomplishment (except event capes)"
+      },
+      {
+        "task": "5. Jump over the strange floor in Taverley Dungeon.",
+        "requirements": "80 Agility\nMight take several tries (you must take no damage from the jump)"
+      },
+      {
+        "task": "6. Mix a Saradomin brew in Falador east bank.",
+        "requirements": "81 Herblore\nToadflax potion (unf), crushed nest"
+      }
+    ]
+  },
+  "Fremennik": {
+    "Easy": [
+      {
+        "task": "1. Catch a cerulean twitch (found north of Fairy ring code DKS).",
+        "requirements": "11 Hunter\nBird snare\nYou can complete the medium task of catching a Snowy knight ( 35 )and the hard task of catching a Sabre-toothed Kyatt ( 55 ) while you are here."
+      },
+      {
+        "task": "2. Change your boots at Yrsa's Shoe Store.",
+        "requirements": "Completion of The Fremennik Trials\n You can alternatively browse her regular clothing store to complete the task, no purchase necessary."
+      },
+      {
+        "task": "3. Kill 5 Rock Crabs.",
+        "requirements": "Weaponry\nNote: Killing rock crabs in Waterbirth Island/Dungeon counts for this task. However, giant rock crabs and rock lobsters do not count."
+      },
+      {
+        "task": "4. Craft a tiara from scratch in Rellekka.Mine silver ore from the Rellekka mine, then use it on the furnace in the west of the city.",
+        "requirements": "Completion of The Fremennik Trials\n 23 Crafting,  20 Mining and  20 Smithing\nTiara mould and any pickaxe\n You can mine coal in the silver mine to complete the medium task.\nCompleting any other tasks will reset this tasks progress if it is not completed."
+      },
+      {
+        "task": "5. Browse the Stonemason's shop (in west Keldagrim, right-click him to Trade).",
+        "requirements": "Players can use fairy ring code dks to teleport right next to the entrance to Keldagrim.\n  Started The Giant Dwarf"
+      },
+      {
+        "task": "6. Collect 5 snape grass on Waterbirth Island.\nYou can drop and pick up the same snape grass five times.",
+        "requirements": "Completion of The Fremennik Trials (for free travel via Jarvald), 1000 coins or a Waterbirth teleport tablet"
+      },
+      {
+        "task": "7. Steal from the Keldagrim crafting or baker's stall (located in the central building of Eastern Keldagrim)",
+        "requirements": "Started The Giant Dwarf\n 5 Thieving"
+      },
+      {
+        "task": "8. Fill a bucket with water at the Rellekka well (near the entrance of the town).",
+        "requirements": "Bucket\nThere's a bucket of milk slightly north from the well."
+      },
+      {
+        "task": "9. Enter the Troll Stronghold.",
+        "requirements": "Completion of the Troll Stronghold and Death Plateau\nClimbing boots"
+      },
+      {
+        "task": "10. Chop and burn some oak logs in the Fremennik Province (near the house portal).",
+        "requirements": "15 Woodcutting and  15 Firemaking\nAny axe and a tinderbox"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Slay a brine rat.",
+        "requirements": "Partial completion of Olaf's Quest\n 47 Slayer\nWeaponry and a spade"
+      },
+      {
+        "task": "2. Travel to the Snowy Hunter Area via Eagle.",
+        "requirements": "Completion of Eagles' Peak\nRope"
+      },
+      {
+        "task": "3. Mine some coal in Rellekka.",
+        "requirements": "Completion of The Fremennik Trials\n 30 Mining\nAny pickaxe"
+      },
+      {
+        "task": "4. Steal from the Rellekka fish stalls.",
+        "requirements": "Completion of The Fremennik Trials\n 42 Thieving"
+      },
+      {
+        "task": "5. Travel to Miscellania by fairy ring (CIP).",
+        "requirements": "Completion of The Fremennik Trials and having started Fairytale II - Cure a Queen\nDramen staff or lunar staff"
+      },
+      {
+        "task": "6. Catch a Snowy knight (just north-west of DKS).",
+        "requirements": "35 Hunter\nButterfly net and butterfly jar"
+      },
+      {
+        "task": "7. Pick up your pet rock from your POH menagerie.Use your pet rock on a pet house inside your house, then retrieve it off the ground, not in \"building mode\"",
+        "requirements": "Partial completion of The Fremennik Trials\n 37 Construction and materials to build a pet house\nPet rock"
+      },
+      {
+        "task": "8. Visit the Lighthouse from Waterbirth Island.Study the dangerous route on the Waterbirth Island page before attempting this.\nSuggested to teleport to Waterbirth Island to start this task so you can complete a Hard Diary Task at the same time.",
+        "requirements": "Completion of Horror from the Deep and having started The Fremennik Trials\nPet rock and a rune thrownaxe, or help from another player to open the doors in the Waterbirth Island Dungeon\nSuggested to teleport to Waterbirth Island to complete a hard task at the same time: \n\n  Completion of Lunar Diplomacy\n 72 Magic and means to cast Waterbirth teleport (   1 2      1          )"
+      },
+      {
+        "task": "9. Mine some gold at the Arzinian Mine (achieved during Between a Rock...).",
+        "requirements": "Partial completion of Between a Rock...\n 40 Mining\nAny pickaxe and the gold helmet"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Teleport to Trollheim.",
+        "requirements": "Completion of Eadgar's Ruse\n 61 Magic and means to cast Trollheim teleport (  2        2          )"
+      },
+      {
+        "task": "2. Catch a Sabre-toothed kyatt.",
+        "requirements": "55 Hunter\nTeasing stick, logs and a knife"
+      },
+      {
+        "task": "3. Mix a Super defence potion in the Fremennik Province (only in or near Rellekka).",
+        "requirements": "66 Herblore\nCadantine potion (unf) and white berries"
+      },
+      {
+        "task": "4. Steal from the Keldagrim Gem Stall.",
+        "requirements": "Started The Giant Dwarf\n 75 Thieving"
+      },
+      {
+        "task": "5. Craft a Fremennik shield on Neitiznot.",
+        "requirements": "Partial completion of The Fremennik Isles\n 56 Woodcutting\nHammer, rope, a bronze nail and 2 arctic pine logs."
+      },
+      {
+        "task": "6. Mine 5 adamantite ores on Jatizso.",
+        "requirements": "Started The Fremennik Isles\n 70 Mining\nAny pickaxe"
+      },
+      {
+        "task": "7. Obtain 100% support from your kingdom subjects.",
+        "requirements": "Partial completion of Throne of Miscellania\nRake, pickaxe, axe, harpoon and/or lobster pot, depending on how you plan to gain support."
+      },
+      {
+        "task": "8. Teleport to Waterbirth Island.",
+        "requirements": "Completion of Lunar Diplomacy\n 72 Magic and means to cast Waterbirth teleport (   1 2      1          )"
+      },
+      {
+        "task": "9. Obtain the Blast Furnace Foreman's permission to use the Blast Furnace for free.",
+        "requirements": "Started The Giant Dwarf\n 60 Smithing(not boostable)\nIf you are having trouble completing the task, try hopping worlds and speaking to the foreman again, avoiding the pay option."
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Kill each of the Dagannoth Kings (logging out or switching worlds will not reset your progress).\nNote: Completing or updating any other task, including those from other diaries, will reset the progress for this task.",
+        "requirements": "Good combat stats and equipment to kill all three."
+      },
+      {
+        "task": "2. Craft 56 astral runes simultaneously from Essence without the use of Extracts.",
+        "requirements": "Completion of Lunar Diplomacy\n 82 Runecraft\n28[a] pure or daeyalt essence"
+      },
+      {
+        "task": "3. Create a dragonstone amulet in the Neitiznot furnace.",
+        "requirements": "Started The Fremennik Isles\n 80 Crafting\nDragonstone, gold bar and an amulet mould\nOnly crafting Dragonstone amulet (u) is necessary. You do not need to string it."
+      },
+      {
+        "task": "4. Complete a lap of the Rellekka Rooftop Course.",
+        "requirements": "80 Agility"
+      },
+      {
+        "task": "5. Kill the generals of Armadyl, Bandos, Saradomin, and Zamorak in the God Wars Dungeon.",
+        "requirements": "Partial completion of the Troll Stronghold, or completion of the   Easy Combat Achievements\n 70 Agility,  70 Strength,  70 Hitpoints and  70 Ranged (none can be boosted)\nCombat equipment to kill all four generals\nIf you start the Frozen Door miniquest, these kills will count for that.\nYou don't have to kill the bodyguards\nKills do not reset upon logging out, hopping worlds, leaving the God Wars Dungeon, dying, or completing other Achievement Diary tasks.\nThey also do not provide a task update message (\"Achievement Diary Stage Task - Current stage: x\")."
+      },
+      {
+        "task": "6. Slay a Spiritual mage within the God Wars Dungeon.",
+        "requirements": "Completion of the Troll Stronghold\n 83 Slayer\nWeaponry"
+      }
+    ]
+  },
+  "Kandarin": {
+    "Easy": [
+      {
+        "task": "1. Catch a mackerel at Catherby.",
+        "requirements": "16 Fishing\nBig fishing net\nTip: You can also catch a bass and cook it in Catherby to complete a medium task"
+      },
+      {
+        "task": "2. Buy a candle from the candle maker in Catherby.",
+        "requirements": "3 coins"
+      },
+      {
+        "task": "3. Collect 5 flax from the Seers' Village flax field.",
+        "requirements": "None"
+      },
+      {
+        "task": "4. Play the Church organ in the Seers' Village church.",
+        "requirements": "None"
+      },
+      {
+        "task": "5. Plant jute seeds in the farming patch north of McGrubor's Wood.",
+        "requirements": "13 Farming\n3 jute seeds, rake, and a seed dibber"
+      },
+      {
+        "task": "6. Have Galahad make you a cup of tea (found in the house west of McGrubor's Wood).",
+        "requirements": "None"
+      },
+      {
+        "task": "7. Defeat one of each elemental in the Elemental Workshop.Note: You must kill one of each type. Earth elementals in rock form do not count.",
+        "requirements": "Started Elemental Workshop I\nBattered key and weaponry"
+      },
+      {
+        "task": "8. Get a pet fish from Harry in Catherby.Talk to Harry with all required items in inventory.",
+        "requirements": "Fishbowl filled with water, seaweed and 10 coins"
+      },
+      {
+        "task": "9. Buy a stew from the Seers' Village pub.",
+        "requirements": "20 coins"
+      },
+      {
+        "task": "10. Speak to Sherlock between the Sorcerer's Tower and Keep Le Faye.",
+        "requirements": "None"
+      },
+      {
+        "task": "11. Cross the Coal truck log shortcut.",
+        "requirements": "20 Agility\nTip: Take a pickaxe to mine coal for a medium diary task"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Complete a lap of the Barbarian Agility course.",
+        "requirements": "Completion of Alfred Grimhand's Barcrawl\n 35 Agility"
+      },
+      {
+        "task": "2. Create a Superantipoison potion from scratch in the Seers' Village/Catherby area.",
+        "requirements": "48 Herblore\nVial of water, irit leaf, unicorn horn dust"
+      },
+      {
+        "task": "3. Enter the Ranging Guild.",
+        "requirements": "40 Ranged"
+      },
+      {
+        "task": "4. Use the grapple shortcut to get from the water obelisk to Catherby shore.",
+        "requirements": "36 Agility,  22 Strength and  39 Ranged\nMith grapple, any crossbow, and the dusty key or 70 Agility.\nRecommended: Items to protect from dragonfire such as the anti-dragon shield, an antifire potion, or  37 Prayer for Protect from Magic.\nTip: Take an unpowered orb and runes to charge it at the Obelisk of Water for a hard diary task."
+      },
+      {
+        "task": "5. Catch and cook a bass in Catherby.",
+        "requirements": "46 Fishing and  43 Cooking\nBig fishing net"
+      },
+      {
+        "task": "6. Teleport to Camelot.",
+        "requirements": "45 Magic and means to cast Camelot teleport (5          1          )"
+      },
+      {
+        "task": "7. String a maple shortbow in Seers' Village bank.",
+        "requirements": "50 Fletching\nMaple shortbow (u) and bow string"
+      },
+      {
+        "task": "8. Pick some limpwurt root from the farming patch in Catherby.",
+        "requirements": "26 Farming\nLimpwurt seed, rake and seed dibber\nUltracompost is recommended"
+      },
+      {
+        "task": "9. Create a mind helmet (achieved during Elemental Workshop II).",
+        "requirements": "Completion of Elemental Workshop II\nMind bar, hammer, beaten book and the battered key"
+      },
+      {
+        "task": "10. Kill a fire giant in the Waterfall Dungeon.",
+        "requirements": "Started Waterfall Quest\nRope and weaponry\nGlarial's amulet is required if Waterfall Quest isn't completed"
+      },
+      {
+        "task": "11. Complete a wave of Barbarian Assault.",
+        "requirements": "Combat equipment"
+      },
+      {
+        "task": "12. Steal from the chest in Hemenster (between the range and anvil).",
+        "requirements": "47 Thieving\nLockpick\nTip: Combat Bracelet teleport to ranging guild brings you close by."
+      },
+      {
+        "task": "13. Travel to McGrubor's Wood by Fairy ring (ALS).",
+        "requirements": "Started Fairytale II - Cure a Queen\nDramen or Lunar staff"
+      },
+      {
+        "task": "14. Mine some coal near the coal trucks.",
+        "requirements": "30 Mining\nAny pickaxe"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Catch a leaping sturgeon (above the Baxtorian Falls).",
+        "requirements": "Access to Barbarian Fishing\n 70 Fishing,  45 Agility and  45 Strength\nBarbarian rod, and fishing bait or feathers"
+      },
+      {
+        "task": "2. Complete a lap of the Seers' Village Rooftop Course.",
+        "requirements": "60 Agility"
+      },
+      {
+        "task": "3. Create a yew longbow from scratch around Seers' Village.",
+        "requirements": "70 Fletching and  60 Woodcutting\nAny axe, bow string and a knife"
+      },
+      {
+        "task": "4. Enter the Seers' Village courthouse with Piety turned on.",
+        "requirements": "Completion of King's Ransom and the Knight Waves Training Grounds\n 70 Prayer (not boostable) and  70 Defence (not boostable)"
+      },
+      {
+        "task": "5. Charge a water orb.",
+        "requirements": "56 Magic and means to cast Charge Water Orb (   30     3             and an unpowered orb)\nDusty key or at least  70 Agility for a shortcut"
+      },
+      {
+        "task": "6. Burn some maple logs with a bow in Seers' Village.",
+        "requirements": "Access to Barbarian Firemaking\n 65 Firemaking\nMaple logs, and any bow (except the twisted, cursed, dark, crystal, ogre, rain, starter or signed oak bow)"
+      },
+      {
+        "task": "7. Kill a shadow hound in the Shadow Dungeon.",
+        "requirements": "Started Desert Treasure I\n 53 Thieving\nRing of visibility (or a Ring of shadows), and combat equipment"
+      },
+      {
+        "task": "8. Kill a Mithril dragon.\nNote: Killing the Mithril dragon fought during Dragon Slayer II does not count for this task.",
+        "requirements": "Access to Barbarian Firemaking\nCombat equipment and protection from dragonfire (such as a super antifire potion)"
+      },
+      {
+        "task": "9. Purchase and equip a granite body from Barbarian Assault.Requires successful completion of the minigame.\nNote: Banking the granite body will no longer reset the task",
+        "requirements": "50 Strength and  50 Defence\n95,000 coins and combat equipment to survive all ten waves"
+      },
+      {
+        "task": "10. Have the Seers' Village estate agent decorate your house with Fancy Stone (you must finish the dialogue).",
+        "requirements": "50 Construction(not boostable)\n25,000 coins"
+      },
+      {
+        "task": "11. Smith an adamant spear at Otto's Grotto.",
+        "requirements": "Access to Barbarian Smithing\n 75 Smithing\nYew logs, adamantite bar and a hammer"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Read the blackboard at Barbarian Assault after reaching level 5 in every role.These levels are bought with 1400 honour points per role, thus 5600 points in total.",
+        "requirements": "Combat skills and equipment to obtain the points required"
+      },
+      {
+        "task": "2. Pick some dwarf weed from the herb patch at Catherby.",
+        "requirements": "79 Farming\nDwarf weed seed, seed dibber, spade, and rake\nUltracompost is recommended"
+      },
+      {
+        "task": "3. Fish and cook 5 sharks[n 1] in Catherby (at the range east of the bank) using the Cooking gauntlets.",
+        "requirements": "Completion of Family Crest\n 76 Fishing and  80 Cooking\nHarpoon and cooking gauntlets"
+      },
+      {
+        "task": "4. Mix a Stamina mix on top of the Seers' Village bank.",
+        "requirements": "Access to Barbarian Herblore\n 86 Herblore and  60 Agility\nStamina potion (2) and caviar\n()  70 Fishing,  45 Strength,  45 Agility, and a knife to catch a leaping sturgeon for obtaining caviar, or access to Fossil Island to kill Lobstrosities which drop it commonly"
+      },
+      {
+        "task": "5. Smith a rune hasta at Otto's Grotto.",
+        "requirements": "Access to Barbarian Smithing\n 90 Smithing\nRunite bar, magic logs and a hammer"
+      },
+      {
+        "task": "6. Construct a pyre ship from magic logs (chewed bones must be used).",
+        "requirements": "Access to Barbarian Firemaking\n 85 Firemaking and  85 Crafting\nMagic logs, chewed bones, tinderbox, any woodcutting axe"
+      },
+      {
+        "task": "7. Teleport to Catherby",
+        "requirements": "Completion of Lunar Diplomacy\n 87 Magic and means to cast Catherby Teleport (   10 3      3          )"
+      }
+    ]
+  },
+  "Karamja": {
+    "Easy": [
+      {
+        "task": "1. Pick 5 bananas from the plantation located east of the volcano.",
+        "requirements": "None"
+      },
+      {
+        "task": "2. Use the rope swing to travel to the Moss Giant Island north-west of Karamja.",
+        "requirements": "10 Agility"
+      },
+      {
+        "task": "3. Mine some gold from the rocks on the north-west peninsula of Karamja.\nThe South Brimhaven Mine does NOT count, it must be from the North Brimhaven Mine.",
+        "requirements": "40 Mining\nAny pickaxe"
+      },
+      {
+        "task": "4. Travel to Port Sarim via the dock, east of Musa Point.",
+        "requirements": "30 coins or the Ring of charos (a)"
+      },
+      {
+        "task": "5. Travel to Ardougne via the port near Brimhaven.",
+        "requirements": "30 coins or the Ring of charos (a)"
+      },
+      {
+        "task": "6. Explore Cairn Isle to the west of Karamja.",
+        "requirements": "15 Agility"
+      },
+      {
+        "task": "7. Use the fishing spots north of the banana plantation (any one of them).",
+        "requirements": "Harpoon, lobster pot, small fishing net, a fishing rod with bait, or having unlocked bare-handed fishing."
+      },
+      {
+        "task": "8. Collect 5 seaweed from anywhere on Karamja.You can just drop and pick up any seaweed five times.",
+        "requirements": "None"
+      },
+      {
+        "task": "9. Attempt the TzHaar Fight Pits or Fight Cave.You can simply enter and leave. No actual attempt is necessary, but the Fight Pits will not allow entrance without other players.",
+        "requirements": "None"
+      },
+      {
+        "task": "10. Kill a jogre in the Pothole Dungeon.",
+        "requirements": "Weaponry"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Claim a ticket from the Agility arena in Brimhaven.",
+        "requirements": "200 coins\nHaving at least  40 Agility is recommended, but not necessary"
+      },
+      {
+        "task": "2. Discover hidden wall in the dungeon below the volcano.",
+        "requirements": "Partial completion of Dragon Slayer I"
+      },
+      {
+        "task": "3. Visit the Isle of Crandor via the dungeon below the volcano.",
+        "requirements": "Partial completion of Dragon Slayer I\nYou must go through the wall, past the Lesser demons, then climb the rope to the surface of Crandor to complete the task."
+      },
+      {
+        "task": "4. Use Vigroy and Hajedy's cart service.",
+        "requirements": "Completion of Shilo Village\n200 coins"
+      },
+      {
+        "task": "5. Earn 100% favour in the Tai Bwo Wannai Cleanup minigame.",
+        "requirements": "Completion of Jungle Potion\n 10 Woodcutting\nTai Bwo Wannai Cleanup items"
+      },
+      {
+        "task": "6. Cook a Spider on stick.\nAlternatively, cook a spider on shaft.",
+        "requirements": "16 Cooking\nSpider carcass and a skewer stick or an arrow shaft"
+      },
+      {
+        "task": "7. Charter the Lady of the Waves from south of Cairn Isle to Port Khazard.",
+        "requirements": "Completion of Shilo Village\nShip ticket or 25-50 coins (the number of coins needed is random)"
+      },
+      {
+        "task": "8. Cut a log from a teak tree.",
+        "requirements": "Completion of Jungle Potion\n 35 Woodcutting\nAny axe and either 100 trading sticks if cutting in Hardwood Grove, and a machete or 79 agility if cutting in Kharazi Jungle (requires starting the Legends' Quest)."
+      },
+      {
+        "task": "9. Cut a log from a mahogany tree.",
+        "requirements": "Completion of Jungle Potion\n 50 Woodcutting\nAny axe and either 100 trading sticks if cutting in Hardwood Grove, and a machete or 79 agility if cutting in Kharazi Jungle (requires starting the Legends' Quest)."
+      },
+      {
+        "task": "10. Catch a karambwan.",
+        "requirements": "Partial completion of Tai Bwo Wannai Trio\n 65 Fishing\nKarambwan vessel, some raw karambwanji and a small fishing net"
+      },
+      {
+        "task": "11. Exchange gems for a machete.\nSpeak to Murcaily about Tai Bwo Wannai Cleanup, get some favour, fix at least one fence, then claim some sticks for helping. Safta Doc will then allow you to trade for machetes.",
+        "requirements": "Completion of Jungle Potion\nGout tuber and 3 cut/uncut opal, jade, or red topaz\nDepending on the type of gems, respectively 300, 600 or 1200 trading sticks"
+      },
+      {
+        "task": "12. Use the gnome glider to travel to Karamja.",
+        "requirements": "Completion of The Grand Tree"
+      },
+      {
+        "task": "13. Grow a healthy fruit tree in the patch near Brimhaven.",
+        "requirements": "27 Farming\nAny fruit tree sapling, a spade and a rake"
+      },
+      {
+        "task": "14. Trap a Horned Graahk.",
+        "requirements": "41 Hunter\nTeasing stick, knife and any logs."
+      },
+      {
+        "task": "15. Chop the vines to gain deeper access to Brimhaven Dungeon.",
+        "requirements": "10 Woodcutting\nAny axe and 875 coins"
+      },
+      {
+        "task": "16. Cross the lava using the stepping stones within Brimhaven Dungeon (south-west of pipe squeeze with moss giants).",
+        "requirements": "10 Woodcutting and  12 Agility\nAny axe and 875 coins"
+      },
+      {
+        "task": "17. Climb the stairs within Brimhaven Dungeon.",
+        "requirements": "10 Woodcutting\nAny axe and 875 coins"
+      },
+      {
+        "task": "18. Charter a ship from the shipyard in the far east of Karamja.",
+        "requirements": "Completion of The Grand Tree\n200 coins if travelling to Musa Point (or less with the Ring of charos (a) and/or completion of Cabin Fever)"
+      },
+      {
+        "task": "19. Mine a red topaz from a gem rock.Can be found in Shilo Village or within the Tai Bwo Wannai Cleanup minigame.",
+        "requirements": "Completion of Jungle Potion, and alternatively also Shilo Village\n 40 Mining\nAny pickaxe"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Become the champion of the Fight Pit.It's possible to do this with only two people total in the pit, yourself included.",
+        "requirements": "Combat gear"
+      },
+      {
+        "task": "2. Kill a Ket-Zek in the Fight Caves.",
+        "requirements": "Combat gear"
+      },
+      {
+        "task": "3. Eat an oomlie wrap.",
+        "requirements": "Oomlie wrap, or the requirements to make it ( 50 Cooking(not boostable), palm leaf and a raw oomlie)\nPurchased or traded wraps will work for this achievement"
+      },
+      {
+        "task": "4. Craft some nature runes from Essence.",
+        "requirements": "44 Runecraft\nPure or daeyalt essence\nAccess to the Nature Altar (nature talisman, nature tiara, catalytic tiara, or the Abyss)"
+      },
+      {
+        "task": "5. Cook a raw karambwan thoroughly.",
+        "requirements": "Completion of Tai Bwo Wannai Trio (speak to Tinsay after the quest)\n 30 Cooking\nRaw karambwan (multiple recommended as they may burn)"
+      },
+      {
+        "task": "6. Kill a death wing in the dungeon under the Kharazi Jungle.",
+        "requirements": "Partial completion of Legends' Quest\nAny axe, machete, pickaxe and a lockpick"
+      },
+      {
+        "task": "7. Use the crossbow shortcut south of the volcano.",
+        "requirements": "53 Agility,  42 Ranged and  21 Strength\nAny crossbow and a mith grapple"
+      },
+      {
+        "task": "8. Collect 5 palm leaves.You can pick up and drop the same palm leaf five times.",
+        "requirements": "Partial completion of Legends' Quest\nAny axe, and a machete or  79 Agility"
+      },
+      {
+        "task": "9. Be assigned a Slayer task by the Slayer Master in Shilo Village.",
+        "requirements": "Completion of Shilo Village\n 100 Combat level and  50 Slayer, or a Slayer cape"
+      },
+      {
+        "task": "10. Kill a metal dragon in Brimhaven Dungeon.",
+        "requirements": "Combat gear, protection from dragonfire (such as a super antifire potion), 875 coins and any axe"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Craft 56 nature runes simultaneously from Essence without the use of Extracts.",
+        "requirements": "91 Runecraft\n28[a] pure or daeyalt essence\nAccess to the Nature Altar (nature tiara, catalytic tiara, or the Abyss)"
+      },
+      {
+        "task": "2. Equip a fire cape or infernal cape in the TzHaar City.",
+        "requirements": "Great combat skills and equipment to achieve one of these capes\nFire cape or infernal cape"
+      },
+      {
+        "task": "3. Check the health of a palm tree in Brimhaven.",
+        "requirements": "68 Farming\nPalm sapling, spade and rake\nRecommended: 15 papaya fruit to pay the gardener"
+      },
+      {
+        "task": "4. Create an antivenom potion whilst standing in the horse shoe mine.",
+        "requirements": "87 Herblore\nAntidote++ (can be bought) and 5-20 Zulrah's scales (five per dose)"
+      },
+      {
+        "task": "5. Check the health of your Calquat tree patch.",
+        "requirements": "72 Farming\nCalquat sapling, spade and rake\nRecommended: 8 poison ivy berries to pay the gardener"
+      }
+    ]
+  },
+  "Kourend & Kebos": {
+    "Easy": [
+      {
+        "task": "1. Mine some iron ore at the Mount Karuulm mine.",
+        "requirements": "15 Mining\nAny pickaxe"
+      },
+      {
+        "task": "2. Kill a Sand Crab.",
+        "requirements": "None"
+      },
+      {
+        "task": "3. Hand in a book at the Arceuus Library.",
+        "requirements": "None"
+      },
+      {
+        "task": "4. Steal from a Hosidius Fruit Stall.",
+        "requirements": "25 Thieving"
+      },
+      {
+        "task": "5. Browse the Warrens General Store.",
+        "requirements": "None"
+      },
+      {
+        "task": "6. Take a boat to Land's End. (Only Veos travel from Port Sarim or Port Piscarilius count, not Charter Ships)",
+        "requirements": "None"
+      },
+      {
+        "task": "7. Pray at the altar on the top floor of the Kourend Castle.",
+        "requirements": "None"
+      },
+      {
+        "task": "8. Dig up some saltpetre (south-west of Hosidius).",
+        "requirements": "Spade"
+      },
+      {
+        "task": "9. Enter your player-owned house from Hosidius.",
+        "requirements": "25 Construction\n8,750 coins"
+      },
+      {
+        "task": "10. Do a lap of either tier of the Shayzien Agility Course.",
+        "requirements": "5 Agility"
+      },
+      {
+        "task": "11. Create a strength potion in the Lovakengj pub.",
+        "requirements": "Completion of Druidic Ritual\n 12 Herblore\nTarromin potion (unf) and limpwurt root"
+      },
+      {
+        "task": "12. Fish a Trout from the River Molch (south-east of the Farming Guild).",
+        "requirements": "20 Fishing\nFly fishing rod and some feathers"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Travel to the fairy ring south of Mount Karuulm (CIR).",
+        "requirements": "Started Fairytale II - Cure a Queen\nDramen or Lunar staff"
+      },
+      {
+        "task": "2. Kill a lizardman.",
+        "requirements": "Combat equipment and antipoison are recommended"
+      },
+      {
+        "task": "3. Use Kharedst's memoirs to teleport to all five cities in Great Kourend.",
+        "requirements": "Completion of The Depths of Despair, The Queen of Thieves, Tale of the Righteous, The Forsaken Tower and The Ascent of Arceuus\nKharedst's memoirs or the Book of the dead"
+      },
+      {
+        "task": "4. Mine some volcanic sulphur.",
+        "requirements": "42 Mining\nAny pickaxe\nFace mask, gas mask or slayer helmet"
+      },
+      {
+        "task": "5. Enter the Farming Guild (by walking through the main entrance).",
+        "requirements": "45 Farming"
+      },
+      {
+        "task": "6. Switch to the Necromancy Spellbook at Tyss.",
+        "requirements": "None"
+      },
+      {
+        "task": "7. Repair a crane within Port Piscarilius.",
+        "requirements": "30 Crafting and  30 Construction\nHammer, about 50 nails and 3 regular planks"
+      },
+      {
+        "task": "8. Deliver some intelligence to Captain Ginea.",
+        "requirements": "Combat equipment to obtain the intelligence"
+      },
+      {
+        "task": "9. Catch a Bluegill on Lake Molch.",
+        "requirements": "43 Fishing and  35 Hunter\nKing worm (found in abundance on the island) or fish chunks"
+      },
+      {
+        "task": "10. Use the boulder leap shortcut in the dense essence mine (north-east by the bright crystals).",
+        "requirements": "49 Agility"
+      },
+      {
+        "task": "11. Subdue the Wintertodt (earn at least 500 points).",
+        "requirements": "50 Firemaking\nAny axe, tinderbox, food and warm clothing\nRecommended: Knife and hammer"
+      },
+      {
+        "task": "12. Catch a chinchompa in the Kourend Woodland.",
+        "requirements": "Completion of Eagles' Peak\n 53 Hunter\nBox trap"
+      },
+      {
+        "task": "13. Chop some mahogany logs north of the Farming Guild.",
+        "requirements": "50 Woodcutting\nAny axe"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Enter the Woodcutting Guild.",
+        "requirements": "60 Woodcutting"
+      },
+      {
+        "task": "2. Smelt an adamantite bar in The Forsaken Tower.",
+        "requirements": "Completion of The Forsaken Tower\n 70 Smithing\nAdamantite ore and 6 coal"
+      },
+      {
+        "task": "3. Kill a lizardman shaman in the Lizardman Temple.",
+        "requirements": "Decent combat skills and equipment, and antipoison"
+      },
+      {
+        "task": "4. Mine some Lovakite ore.",
+        "requirements": "65 Mining\nAny pickaxe"
+      },
+      {
+        "task": "5. Plant some Logavano seeds at the Tithe Farm.",
+        "requirements": "74 Farming\nSeed dibber"
+      },
+      {
+        "task": "6. Kill a zombie in the Shayzien Crypts.",
+        "requirements": "Decent combat skills and equipment, and a light source"
+      },
+      {
+        "task": "7. Teleport to Xeric's Heart using Xeric's talisman.",
+        "requirements": "Xeric's talisman and a lizardman fang, or a mounted xeric's talisman inside a player-owned house (another player's house may be used)"
+      },
+      {
+        "task": "8. Deliver an artefact to Captain Khaled.",
+        "requirements": "49 Thieving\nLockpick"
+      },
+      {
+        "task": "9. Kill a wyrm in the Karuulm Slayer Dungeon.",
+        "requirements": "62 Slayer\nWeaponry, and boots of stone, brimstone or granite"
+      },
+      {
+        "task": "10. Cast Monster Examine on a mountain troll south of Mount Quidamortem.",
+        "requirements": "Completion of Dream Mentor\n 66 Magic and means to cast Monster Examine (    1    1   1         ) (Lunar Spellbook)"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Craft one or more Blood runes from Dark essence fragments.",
+        "requirements": "77 Runecraft,  38 Mining, and  38 Crafting\nAny pickaxe and chisel"
+      },
+      {
+        "task": "2. Chop some redwood logs.",
+        "requirements": "90 Woodcutting\nAny axe"
+      },
+      {
+        "task": "3. Defeat Skotizo in the Catacombs of Kourend.",
+        "requirements": "Decent combat skills and equipment, and a dark totem"
+      },
+      {
+        "task": "4. Catch an anglerfish and cook it whilst in Great Kourend.",
+        "requirements": "82 Fishing and  84 Cooking\nFishing rod and some sandworms"
+      },
+      {
+        "task": "5. Kill a hydra in the Karuulm Slayer Dungeon.",
+        "requirements": "95 Slayer (Boostable from  90 Slayer with Wild pie)\nDecent combat skills and equipment"
+      },
+      {
+        "task": "6. Create an Ape Atoll teleport tablet.",
+        "requirements": "90 Magic\nDark essence block and the required runes (     2     2   2       ) with the Arceuus spellbook active"
+      },
+      {
+        "task": "7. Complete a raid in the Chambers of Xeric.",
+        "requirements": "Decent combat skills and equipment\nCan use a raid group to complete at low combat."
+      },
+      {
+        "task": "8. Create your own battlestaff from scratch within the Farming Guild.",
+        "requirements": "85 Farming and  40 Fletching\nCelastrus sapling, knife and any axe\nRecommended: 8 potato cacti to protect your crop"
+      }
+    ]
+  },
+  "Lumbridge & Draynor": {
+    "Easy": [
+      {
+        "task": "1. Complete a lap of the Draynor Village Rooftop Course.",
+        "requirements": "None"
+      },
+      {
+        "task": "2. Slay a cave bug in the Lumbridge Swamp Caves.",
+        "requirements": "7 Slayer\nLight source, and a rope if the caves haven't been entered yet"
+      },
+      {
+        "task": "3. Have Archmage Sedridor teleport you to the Rune essence mine.",
+        "requirements": "Completion of Rune Mysteries"
+      },
+      {
+        "task": "4. Craft some water runes from Essence.",
+        "requirements": "5 Runecraft\nPure, daeyalt, or rune essence\nAccess to the Water Altar (water talisman, water tiara, elemental tiara, or the Abyss)"
+      },
+      {
+        "task": "5. Learn your age from Hans in Lumbridge.",
+        "requirements": "None"
+      },
+      {
+        "task": "6. Pickpocket a man or woman in Lumbridge.",
+        "requirements": "None"
+      },
+      {
+        "task": "7. Chop and burn some oak logs in Lumbridge.",
+        "requirements": "15 Woodcutting and  15 Firemaking\nAny axe and tinderbox"
+      },
+      {
+        "task": "8. Kill a zombie in the Draynor Sewers.",
+        "requirements": "None"
+      },
+      {
+        "task": "9. Catch some anchovies in Al-Kharid.",
+        "requirements": "15 Fishing\nSmall fishing net"
+      },
+      {
+        "task": "10. Bake some bread on the Lumbridge castle kitchen range.",
+        "requirements": "Completion of Cook's Assistant\nBread dough"
+      },
+      {
+        "task": "11. Mine some iron ore at the Al-Kharid mine.",
+        "requirements": "15 Mining\nAny pickaxe"
+      },
+      {
+        "task": "12. Enter the H.A.M. Hideout.",
+        "requirements": "None"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Complete a lap of the Al Kharid Rooftop Course.",
+        "requirements": "20 Agility"
+      },
+      {
+        "task": "2. Grapple across the River Lum.",
+        "requirements": "8 Agility,  19  and  37 \nMith grapple and any crossbow"
+      },
+      {
+        "task": "3. Purchase an upgraded device from Ava.",
+        "requirements": "Completion of Animal Magnetism\n 50 Ranged(not boostable)\n75 steel arrows, and 999 coins or Ava's attractor"
+      },
+      {
+        "task": "4. Travel to the Wizards' Tower by Fairy ring (DIS).",
+        "requirements": "Started Fairytale II - Cure a Queen\nDramen or Lunar staff"
+      },
+      {
+        "task": "5. Cast the Lumbridge Teleport spell.",
+        "requirements": "31 Magic and means to cast Lumbridge Teleport (3 1         1          )"
+      },
+      {
+        "task": "6. Catch some salmon in Lumbridge.",
+        "requirements": "30 Fishing\nFly fishing rod and some feathers"
+      },
+      {
+        "task": "7. Craft a coif (not cowl) in the Lumbridge cow pen.",
+        "requirements": "38 Crafting\nLeather, needle and thread"
+      },
+      {
+        "task": "8. Chop some willow logs in Draynor Village.",
+        "requirements": "30 Woodcutting\nAny axe"
+      },
+      {
+        "task": "9. Pickpocket Martin the Master Gardener.",
+        "requirements": "38 Thieving"
+      },
+      {
+        "task": "10. Get a Slayer task from Chaeldar.",
+        "requirements": "Completion of Lost City\n 70 Combat level\nDramen or lunar staff."
+      },
+      {
+        "task": "11. Catch an essence or eclectic impling in Puro-Puro.",
+        "requirements": "42 Hunter\nDramen or Lunar staff, butterfly net and an impling jar"
+      },
+      {
+        "task": "12. Craft some Lava runes at the fire altar in Al Kharid.",
+        "requirements": "23 Runecraft\nPure or daeyalt essence\nEarth talisman and earth runes\nAccess to the Fire Altar (fire talisman, fire tiara, elemental tiara, or the Abyss)\nRecommended: Binding necklace"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Cast Bones to Peaches in Al Kharid Palace.",
+        "requirements": "Access to Bones to Peaches via the Mage Training Arena\n 60 Magic\nBones and means to cast the spell ( 4  4         2        ).\nNote: Using the Bones to peaches tablet does not work."
+      },
+      {
+        "task": "2. Squeeze past the jutting wall on your way to the Cosmic Altar.",
+        "requirements": "Completion of Lost City\n 46 Agility\nDramen or Lunar staff, or access to the Abyss"
+      },
+      {
+        "task": "3. Craft 56 Cosmic runes simultaneously from Essence without the use of Extracts.",
+        "requirements": "Completion of Lost City\n 59 Runecraft\n28[a] pure or daeyalt essence\nAccess to the Cosmic Altar (cosmic tiara, catalytic tiara, or the Abyss)"
+      },
+      {
+        "task": "4. Travel from Lumbridge to Edgeville on a waka canoe.",
+        "requirements": "57 Woodcutting\nAny axe"
+      },
+      {
+        "task": "5. Collect at least 100 Tears of Guthix in one visit.",
+        "requirements": "Completion of Tears of Guthix and at least about 150 Quest Points\nRecommended: Games necklace for quick access"
+      },
+      {
+        "task": "6. Take the train from Dorgesh-Kaan to Keldagrim.",
+        "requirements": "Completion of Another Slice of H.A.M."
+      },
+      {
+        "task": "7. Purchase some Barrows gloves from the Culinaromancer's Chest.",
+        "requirements": "Full completion of Recipe for Disaster\n130,000 coins"
+      },
+      {
+        "task": "8. Pick some belladonna from the farming patch at Draynor Manor.",
+        "requirements": "63 Farming\nBelladonna seed, seed dibber, spade, rake and any gloves"
+      },
+      {
+        "task": "9. Light your mining helmet in the Lumbridge Castle basement.",
+        "requirements": "65 Firemaking\nTinderbox and mining helmet"
+      },
+      {
+        "task": "10. Recharge your prayer at Emir's Arena with Smite activated.",
+        "requirements": "52 Prayer"
+      },
+      {
+        "task": "11. Craft, string and enchant an amulet of power in Lumbridge (not upstairs in castle).",
+        "requirements": "70 Crafting and  57 Magic\nGold bar, cut diamond, amulet mould, ball of wool, one cosmic rune and 10 earth runes"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Steal from a Dorgesh-Kaan rich chest.",
+        "requirements": "Completion of Death to the Dorgeshuun\n 78 Thieving\nLockpick"
+      },
+      {
+        "task": "2. Grapple across a pylon on the Dorgesh-Kaan Agility Course.",
+        "requirements": "Completion of Death to the Dorgeshuun and Temple of Ikov\n 70 Agility,  70 Ranged and  70 Strength\nAny crossbow, a mith grapple and a light source"
+      },
+      {
+        "task": "3. Chop some magic logs at the Mage Training Arena.",
+        "requirements": "75 Woodcutting\nAny axe"
+      },
+      {
+        "task": "4. Smith an adamant platebody down in Draynor Sewer.",
+        "requirements": "88 Smithing\n5 adamantite bars and a hammer"
+      },
+      {
+        "task": "5. Craft 140 or more Water runes simultaneously from Essence without the use of Extracts.",
+        "requirements": "76 Runecraft\n 57 Runecraft with 3 Raiments of the Eye pieces\n 38 Runecraft with 4 Raiments of the Eye pieces (must get random chance to round up)\n28 pure, daeyalt, or rune essence\nAccess to the Water Altar (water tiara, elemental tiara, or the Abyss)"
+      },
+      {
+        "task": "6. Perform the Quest point cape emote in the Wise Old Man's house.",
+        "requirements": "Completion of all quests\nQuest point cape"
+      }
+    ]
+  },
+  "Morytania": {
+    "Easy": [
+      {
+        "task": "1. Craft any snelm from scratch in Morytania.",
+        "requirements": "15 Crafting\nChisel\nAny blamish shell"
+      },
+      {
+        "task": "2. Cook a thin snail on the Port Phasmatys range.",
+        "requirements": "12 Cooking\nThin snail\n2 Ecto-tokens (0 if Ghosts Ahoy completed) or up to 5200 Coins for Charter ship needed to enter Port Phasmatys.\nTip: Smelt a set of cannonballs there to complete a medium task"
+      },
+      {
+        "task": "3. Get a Slayer task from Mazchna.",
+        "requirements": "20 Combat level"
+      },
+      {
+        "task": "4. Kill a banshee in the Slayer Tower.",
+        "requirements": "15 Slayer\nEarmuffs or a Slayer helmet are highly recommended"
+      },
+      {
+        "task": "5. Have Sbott tan something for you.",
+        "requirements": "Any tannable hide and 2-45 coins depending on the type of hide"
+      },
+      {
+        "task": "6. Enter Mort Myre Swamp.",
+        "requirements": "Partial completion of Nature Spirit"
+      },
+      {
+        "task": "7. Kill a ghoul.",
+        "requirements": "Weaponry"
+      },
+      {
+        "task": "8. Place a Scarecrow in the Morytania flower patch.",
+        "requirements": "23 Farming (level 47 for Ironman accounts)\nScarecrow (made with a bronze spear, watermelon and hay sack)"
+      },
+      {
+        "task": "9. Offer some Bonemeal at the Ectofuntus.",
+        "requirements": "Pot, bucket and any bones"
+      },
+      {
+        "task": "10. Kill a Werewolf in its human form using the Wolfbane dagger.",
+        "requirements": "Wolfbane dagger (reward from Priest in Peril)"
+      },
+      {
+        "task": "11. Restore your prayer points at the altar of nature.",
+        "requirements": "Completion of Nature Spirit\nTip: Activate Piety while praying to complete a hard task"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Catch a swamp lizard.",
+        "requirements": "29 Hunter\nRope and small fishing net"
+      },
+      {
+        "task": "2. Complete a lap of the Canifis agility course.",
+        "requirements": "40 Agility"
+      },
+      {
+        "task": "3. Obtain some Bark from a Hollow tree.",
+        "requirements": "45 Woodcutting\nAny axe"
+      },
+      {
+        "task": "4. Travel to Dragontooth Isle.\nNote: Visited during Ghosts Ahoy.",
+        "requirements": "Ghostspeak amulet and 25 ecto-tokens (or 10 with the ring of charos (a))"
+      },
+      {
+        "task": "5. Kill a Terror Dog.",
+        "requirements": "Completion of the Haunted Mine and Lair of Tarn Razorlor\n 40 Slayer\nCombat gear\nRecommended: Slayer ring to teleport nearby"
+      },
+      {
+        "task": "6. Complete a game of trouble brewing.\nNote: Winning is optional.",
+        "requirements": "Completion of Cabin Fever\n 40 Cooking\nPlayers require an empty inventory and helm slot. At least one opposing player is required to start the game."
+      },
+      {
+        "task": "7. Board the Swampy boat at the Hollows.\nNote: There is a nearby fairy ring (BKR).",
+        "requirements": "Completion of Nature Spirit"
+      },
+      {
+        "task": "8. Make a batch of cannonballs at the Port Phasmatys furnace.",
+        "requirements": "Completion of Dwarf Cannon\n 35 Smithing\nSteel bar and ammo mould or double ammo mould"
+      },
+      {
+        "task": "9. Kill a Fever Spider on Braindeath Island.\nNote: Achieved during Rum Deal.",
+        "requirements": "Started Rum Deal\n 42 Slayer\nSlayer gloves are recommended to prevent disease"
+      },
+      {
+        "task": "10. Use an ectophial to return to Port Phasmatys.",
+        "requirements": "Completion of Ghosts Ahoy\nEctophial"
+      },
+      {
+        "task": "11. Mix a Guthix Balance potion while in Morytania.",
+        "requirements": "Partial completion of In Aid of the Myreque\n 22 Herblore\nRestore potion, garlic and silver dust (made by using a silver bar on the Ectofuntus bone grinder)"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Enter the Kharyrll portal in your POH.\nNote: Either a Portal chamber or Portal nexus works.",
+        "requirements": "Completion of Desert Treasure I\n 66 Magic\nTo construct the portal chamber:  50 Construction, 100,000 coins, 2 limestone bricks, 3 teak planks, a hammer and saw\nTo charge the portal: 200 law runes and 100 blood runes (you do not need to equip the ancient spellbook)\nAlternatively, the more expensive Portal nexus can be used"
+      },
+      {
+        "task": "2. Climb the advanced spike chain within Slayer Tower.\nNote: the \"advanced\" spike chain is located on the 1st floor[UK]2nd floor[US] near Infernal Mages leading to the 2nd floor[UK]3rd floor[US] near Nechryael.",
+        "requirements": "71 Agility (Boostable)\nIf using the southern spike chain shortcut to aberrant spectres, a nose peg/Slayer helmet is required to prevent them draining agility. A longer, safer route can be taken without aggressive monsters that require special equipment.\nTask does not complete if damage is taken."
+      },
+      {
+        "task": "3. Harvest some Watermelon from the allotment patch on Harmony Island.",
+        "requirements": "Started The Great Brain Robbery\n 47 Farming\n3 watermelon seeds, spade, rake and seed dibber\nUltracompost is recommended"
+      },
+      {
+        "task": "4. Chop and burn some mahogany logs on Mos Le'Harmless.",
+        "requirements": "Completion of Cabin Fever\n 50 Woodcutting and  50 Firemaking\nAny axe and tinderbox\nA Light Source and a Witchwood Icon is recommended, as you will have to go through the Mos Le'Harmless Cave"
+      },
+      {
+        "task": "5. Complete a temple trek with a hard companion.",
+        "requirements": "Completion of In Aid of the Myreque\nCombat gear\nRecommended: Completion of Darkness of Hallowvale to unlock the reverse route\nIt is not necessary to complete any events to complete the task"
+      },
+      {
+        "task": "6. Kill a Cave Horror.",
+        "requirements": "Completion of Cabin Fever\n 58 Slayer\nWitchwood icon and a light source"
+      },
+      {
+        "task": "7. Harvest some Bittercap Mushrooms from the patch in Canifis.",
+        "requirements": "53 Farming\nMushroom spore, rake and seed dibber\nUltracompost is recommended"
+      },
+      {
+        "task": "8. Pray at the Altar of Nature with Piety activated.\nNote: The Altar of Nature is in the Nature Grotto.",
+        "requirements": "Completion of Nature Spirit and the Knight Waves Training Grounds\n 70 Prayer(not boostable) and  70 Defence(not boostable)"
+      },
+      {
+        "task": "9. Use the shortcut to get to the bridge over the Salve. Note: Only counts when going downwards.",
+        "requirements": "65 Agility"
+      },
+      {
+        "task": "10. Mine some mithril ore in the Abandoned Mine.",
+        "requirements": "Completion of Haunted Mine\n 55 Mining\nAny pickaxe\nCrystal mine key"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Catch a shark in Burgh de Rott with your bare hands.",
+        "requirements": "Completion of In Aid of the Myreque\nAccess to Barbarian Fishing\n 96 Fishing and  76 Strength (Boostable from  91 Fishing with Admiral pie)"
+      },
+      {
+        "task": "2. Cremate any Shade remains on a Magic or Redwood pyre.",
+        "requirements": "Completion of Shades of Mort'ton\n 80 Firemaking\nMagic pyre logs, any shade remains and a tinderbox"
+      },
+      {
+        "task": "3. Fertilize the Morytania herb patch using Lunar Magic.\nNote: The herb patch is west of Port Phasmatys.",
+        "requirements": "Completion of Lunar Diplomacy\n 83 Magic and means to cast Fertile Soil ( 15   3        2        )"
+      },
+      {
+        "task": "4. Craft a Black dragonhide body in the Canifis bank.",
+        "requirements": "84 Crafting\n3 black dragon leather, needle and thread"
+      },
+      {
+        "task": "5. Kill an Abyssal demon in the Slayer Tower.",
+        "requirements": "85 Slayer\nCombat gear\n(3rd floor Abyssal demons does not require a task)"
+      },
+      {
+        "task": "6. Loot the Barrows chest while wearing any complete barrows set.\nNote: Requires equipping the weapon as well.",
+        "requirements": "70 Defence(not boostable)\nVarious other skill requirements depending on the set used, none of which can be boosted:\n 70 Attack and  70 Magic for Ahrim's\n 70 Attack and  70 Strength for Dharok's or Torag's\n 70 Attack for Guthan's or Verac's\n 70 Ranged for Karil's"
+      }
+    ]
+  },
+  "Varrock": {
+    "Easy": [
+      {
+        "task": "1. Browse Thessalia's store.",
+        "requirements": "None"
+      },
+      {
+        "task": "2. Have Aubury teleport you to the Essence mine (right-click to Teleport).",
+        "requirements": "Completion of Rune Mysteries"
+      },
+      {
+        "task": "3. Mine some iron in the south-east Varrock mine.",
+        "requirements": "15 Mining\nAny pickaxe"
+      },
+      {
+        "task": "4. Make a normal plank at the Sawmill.",
+        "requirements": "100 coins and a regular log. This step can be combined with chopping down a dying tree in the Lumber Yard. Bring 100 coins and use the resulting logs to buy a plank."
+      },
+      {
+        "task": "5. Enter the second level of the Stronghold of Security.",
+        "requirements": "Food is recommended"
+      },
+      {
+        "task": "6. Jump over the fence south of Varrock.",
+        "requirements": "13 Agility"
+      },
+      {
+        "task": "7. Chop down a dying tree in the Lumber Yard.",
+        "requirements": "Any axe. Bring 100 coins as well and you can use the resulting logs to make a normal plank at the Sawmill to complete another step of the diary."
+      },
+      {
+        "task": "8. Buy a newspaper.",
+        "requirements": "50 coins"
+      },
+      {
+        "task": "9. Give a dog a bone!",
+        "requirements": "Bones"
+      },
+      {
+        "task": "10. Spin a bowl on the pottery wheel and fire it in the oven in Barbarian Village.",
+        "requirements": "8 Crafting\nSoft clay"
+      },
+      {
+        "task": "11. Speak to Haig Halen after obtaining at least 50 Kudos.",
+        "requirements": "Various requirements, see Varrock Museum#Activities for ways to earn Kudos"
+      },
+      {
+        "task": "12. Craft some Earth runes from Essence.",
+        "requirements": "9 Runecraft\nPure, daeyalt, or rune essence\nAccess to the Earth Altar (earth talisman, earth tiara, elemental talisman, elemental tiara, or the Abyss)"
+      },
+      {
+        "task": "13. Catch some trout in the River Lum at Barbarian Village.",
+        "requirements": "20 Fishing\nFly fishing rod and some feathers"
+      },
+      {
+        "task": "14. Steal from the tea stall in Varrock.",
+        "requirements": "5 Thieving"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Have the Apothecary in Varrock make you a Strength potion.",
+        "requirements": "Limpwurt root, red spiders' eggs, and 5 coins"
+      },
+      {
+        "task": "2. Enter the Champions' Guild.",
+        "requirements": "32 Quest points"
+      },
+      {
+        "task": "3. Select a colour for your kitten.",
+        "requirements": "Completion of Gertrude's Cat and partial completion of Garden of Tranquillity\nWear Ring of charos (a) and 100 coins\nNote that you can only have one kitten at a time. If you already have one, either wait for it to grow up, shoo it away or store it in a POH menagerie. Kittens cannot be stored in an Oak house."
+      },
+      {
+        "task": "4. Use the Spirit tree in the north-eastern corner of Grand Exchange.",
+        "requirements": "Completion of Tree Gnome Village"
+      },
+      {
+        "task": "5. Perform the 4 emotes from the Stronghold of Security.",
+        "requirements": "Having enabled the RuneScape Authenticator or two factor authentication via email.\nCombat gear"
+      },
+      {
+        "task": "6. Enter the Tolna dungeon after completing A Soul's Bane.",
+        "requirements": "Completion of A Soul's Bane"
+      },
+      {
+        "task": "7. Teleport to the digsite using a Digsite pendant.",
+        "requirements": "Completion of The Dig Site\nDigsite pendant or a mounted digsite pendant"
+      },
+      {
+        "task": "8. Cast the teleport to Varrock spell.",
+        "requirements": "25 Magic and means to cast Varrock Teleport (3  1        1          )"
+      },
+      {
+        "task": "9. Get a Slayer task from Vannaka.",
+        "requirements": "40 Combat level"
+      },
+      {
+        "task": "10. Make 20 mahogany planks in one go (at the Lumber Yard).",
+        "requirements": "20 mahogany logs and 30,000 coins."
+      },
+      {
+        "task": "11. Pick a white tree fruit.",
+        "requirements": "Completion of Garden of Tranquillity\n 25 Farming"
+      },
+      {
+        "task": "12. Use the balloon to travel from Varrock.",
+        "requirements": "Completion of Enlightened Journey\n 30 Farming\n 40 Firemaking\nOne log of a type depending on the destination chosen\nNote that you must first unlock Varrock by flying to it before you can fly from it. Unlocking Varrock requires an additional 10 willow logs."
+      },
+      {
+        "task": "13. Complete a lap of the Varrock Rooftop Course.",
+        "requirements": "30 Agility"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Trade furs with the Fancy Dress Seller for a Spottier cape and equip it.",
+        "requirements": "66 Hunter(not boostable)\n2 Dashing kebbit fur and 800 coins.\nNote: For  Ironmen,  69 Hunter is required to obtain dashing kebbit fur."
+      },
+      {
+        "task": "2. Speak to Orlando Smith when you have achieved 153 Kudos.",
+        "requirements": "Various requirements, see Varrock Museum#Activities for ways to earn Kudos"
+      },
+      {
+        "task": "3. Make a Waka canoe near Edgeville.",
+        "requirements": "57 Woodcutting\nAny axe"
+      },
+      {
+        "task": "4. Teleport to Paddewwa.",
+        "requirements": "Completion of Desert Treasure I\n 54 Magic and means to cast Paddewwa Teleport (1  1        2          )(Ancient Magicks)"
+      },
+      {
+        "task": "5. Teleport to Barbarian Village with a Skull sceptre.",
+        "requirements": "Skull sceptre"
+      },
+      {
+        "task": "6. Chop some yew logs in Varrock and burn them at the top of the Varrock church.",
+        "requirements": "60 Woodcutting and  60 Firemaking\nAny axe and tinderbox.\nNote: there is a yew tree located next to the church.\nProgress will be reset upon completion of other tasks."
+      },
+      {
+        "task": "7. Have the Varrock estate agent decorate your house with Fancy Stone (complete the dialogue).",
+        "requirements": "50 Construction(not boostable)\n25,000 coins\nNote: if already using Fancy Stone, must change to anything else and back"
+      },
+      {
+        "task": "8. Collect at least 2 yew roots from the tree patch in Varrock Palace.",
+        "requirements": "68 Farming (to dig up two roots) and  60 Woodcutting\nYew sapling, any axe and a spade\nRecommended: 10 cactus spines to pay the gardener"
+      },
+      {
+        "task": "9. Pray at the altar in Varrock Palace (1st floor[UK]2nd floor[US]) with Smite active.",
+        "requirements": "52 Prayer(not boostable)"
+      },
+      {
+        "task": "10. Squeeze through the obstacle pipe in Edgeville Dungeon.",
+        "requirements": "51 Agility"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Create a Super combat potion in Varrock West Bank.",
+        "requirements": "Completion of Druidic Ritual\n 90 Herblore\nSuper attack (4), super strength (4), super defence (4) and a torstol"
+      },
+      {
+        "task": "2. Use Lunar magic to make 20 mahogany planks in the Varrock Lumber Yard (inside the fences).",
+        "requirements": "Completion of Dream Mentor\n 86 Magic and means to cast Plank Make twenty times ( 300   40        20        )\n21,000 coins and 20 mahogany logs"
+      },
+      {
+        "task": "3. Bake a summer pie in the Cooking Guild.",
+        "requirements": "95 Cooking\nRaw summer pie and either a chef's hat, Varrock armour 3 or cooking cape.\nOptional: Bake pie spell (  5 4 1                , ) to prevent burning the pie"
+      },
+      {
+        "task": "4. Smith and fletch ten rune darts within Varrock.",
+        "requirements": "Completion of The Tourist Trap\n 89 Smithing and  81 Fletching\nRunite bar, 10 feathers and a hammer"
+      },
+      {
+        "task": "5. Craft 100 or more earth runes simultaneously from Essence without the use of Extracts.",
+        "requirements": "78 Runecraft\n 52 Runecraft with 2+ Raiments of the Eye pieces\n25 pure, daeyalt, or rune essence (28 if using Raiments to boost craft quantity)\nAccess to the Earth Altar (earth tiara, elemental tiara, or the Abyss)"
+      }
+    ]
+  },
+  "Western Provinces": {
+    "Easy": [
+      {
+        "task": "1. Catch a copper longtail (south of fairy ring AKQ).",
+        "requirements": "9 Hunter\nBird snare"
+      },
+      {
+        "task": "2. Complete a novice game of Pest Control.",
+        "requirements": "40 Combat level\nYou must earn commendation points to complete this task."
+      },
+      {
+        "task": "3. Mine some iron ore near Piscatoris (north-east of fairy ring AKQ).",
+        "requirements": "15 Mining\nAny pickaxe"
+      },
+      {
+        "task": "4. Complete a lap of the Gnome Agility Course.",
+        "requirements": "None"
+      },
+      {
+        "task": "5. Score a goal in a Gnome Ball match.",
+        "requirements": "None"
+      },
+      {
+        "task": "6. Claim any Chompy bird hat from Rantz.Requires killing 30 chompy or jubbly birds and having the (comp) ogre bow in inventory.",
+        "requirements": "Completion of Big Chompy Bird Hunting\nOgre bellows, comp or regular ogre bow and ogre or brutal arrows"
+      },
+      {
+        "task": "7. Teleport to Pest Control using the Minigame teleports.",
+        "requirements": "40 Combat level"
+      },
+      {
+        "task": "8. Collect a swamp toad at the Gnome Stronghold (from the north swamp pen).",
+        "requirements": "None"
+      },
+      {
+        "task": "9. Have Brimstail teleport you to the Essence mine (right-click him to Teleport).",
+        "requirements": "Completion of Rune Mysteries"
+      },
+      {
+        "task": "10. Fletch an oak shortbow in the Gnome Stronghold (oak tree just north of the bank by Nieve/Steve).",
+        "requirements": "20 Fletching\nOak shortbow (u) and bow string"
+      },
+      {
+        "task": "11. Kill a terrorbird in the terrorbird enclosure.",
+        "requirements": "Weaponry"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Take the agility shortcut from the Grand Tree to Otto's Grotto.",
+        "requirements": "Completion of Tree Gnome Village and The Grand Tree\n 37 Agility"
+      },
+      {
+        "task": "2. Travel to the Gnome Stronghold by Spirit tree.",
+        "requirements": "Completion of Tree Gnome Village"
+      },
+      {
+        "task": "3. Trap a Spined larupia (south of fairy ring AKS).",
+        "requirements": "31 Hunter\nTeasing stick, logs and knife"
+      },
+      {
+        "task": "4. Fish some Raw bass on Ape Atoll.",
+        "requirements": "Partial completion of Monkey Madness I\n 46 Fishing\nBig fishing net"
+      },
+      {
+        "task": "5. Chop and burn some teak logs on Ape Atoll.",
+        "requirements": "Partial completion of Monkey Madness I\n 35 Woodcutting and  35 Firemaking\nAny axe and tinderbox (using a bow to light the logs does not work)\nTip: Chop and burn some mahogany logs there with  50 Woodcutting and  50 Firemaking for a hard task"
+      },
+      {
+        "task": "6. Complete an intermediate game of Pest Control.",
+        "requirements": "70 Combat level\nYou must earn commendation points to complete this task."
+      },
+      {
+        "task": "7. Travel to the Feldip Hills by Gnome glider.",
+        "requirements": "Completion of The Grand Tree and partial completion of One Small Favour"
+      },
+      {
+        "task": "8. Claim a Chompy bird hat from Rantz after registering at least 125 kills.Requires killing 125 chompy or jubbly birds and having the (comp) ogre bow in inventory.",
+        "requirements": "Completion of Big Chompy Bird Hunting\nOgre bellows, (comp) ogre bow and ogre or brutal arrows"
+      },
+      {
+        "task": "9. Travel from Eagles' Peak to the Feldip Hills by Eagle.",
+        "requirements": "Completion of Eagles' Peak\nRope"
+      },
+      {
+        "task": "10. Make a Chocolate bomb at the Grand Tree.",
+        "requirements": "42 Cooking\nGnomebowl mould, Gianne dough, 4 chocolate bars, an equa leaf, 2 pots of cream and chocolate dust(can all be purchased at Grand Tree Groceries)\nRecommended: Completion of the Gnome Restaurant tutorial"
+      },
+      {
+        "task": "11. Complete a delivery for the Gnome Restaurant.",
+        "requirements": "29–42 Cooking (varies per food)\nRecommended: Completion of the Gnome Restaurant tutorial"
+      },
+      {
+        "task": "12. Turn your crystal saw seed into a crystal saw (must enchant it yourself with the singing bowl).",
+        "requirements": "Completion of The Eyes of Glouphrie\nCrystal saw seed"
+      },
+      {
+        "task": "13. Mine some gold ore underneath the Grand Tree.",
+        "requirements": "Completion of The Grand Tree\n 40 Mining\nAny pickaxe"
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Kill an elf with a crystal bow.",
+        "requirements": "Completion of Roving Elves\n 70 Ranged\nCrystal bow or Bow of faerdhinen"
+      },
+      {
+        "task": "2. Catch and cook a monkfish in the Piscatoris Fishing Colony.",
+        "requirements": "Completion of Swan Song\n 62 Fishing and  62 Cooking\nSmall fishing net"
+      },
+      {
+        "task": "3. Complete a veteran game of Pest Control.",
+        "requirements": "100 Combat level\nYou must earn commendation points to complete this task."
+      },
+      {
+        "task": "4. Catch a dashing kebbit.",
+        "requirements": "69 Hunter\n500 coins"
+      },
+      {
+        "task": "5. Complete a lap of the Ape Atoll Agility Course.",
+        "requirements": "Partial completion of Monkey Madness I\n 48 Agility\nNinja monkey greegree or Kruk monkey greegree"
+      },
+      {
+        "task": "6. Chop and burn some mahogany logs on Ape Atoll.",
+        "requirements": "Partial completion of Monkey Madness I\n 50 Woodcutting and  50 Firemaking\nAny Woodcutting axe and tinderbox (using a bow or an Infernal Axe to light the logs does not work)"
+      },
+      {
+        "task": "7. Mine some adamantite ore in Tirannwn.",
+        "requirements": "Started Regicide\n 70 Mining\nAny pickaxe"
+      },
+      {
+        "task": "8. Check the health of your palm tree in Lletya.",
+        "requirements": "Started Mourning's End Part I\n 68 Farming\nPalm sapling, rake and spade\nRecommended: 15 papayas to pay the gardener"
+      },
+      {
+        "task": "9. Claim a Chompy bird hat from Rantz after registering at least 300 kills.Requires killing 300 chompy or jubbly birds and having the (comp) ogre bow in inventory.",
+        "requirements": "Completion of Big Chompy Bird Hunting\nOgre bellows, (comp) ogre bow and ogre or brutal arrows"
+      },
+      {
+        "task": "10. Build an Isafdar painting in your POH Quest Hall.",
+        "requirements": "Completion of Roving Elves\n 65 Construction\n3 mahogany planks, an Isafdar painting, a saw and hammer.\n25,000 coins if the Quest Hall hasn't been built yet"
+      },
+      {
+        "task": "11. Kill Zulrah.",
+        "requirements": "Started Regicide\nDecent Magic or Ranged equipment"
+      },
+      {
+        "task": "12. Teleport to Ape Atoll.",
+        "requirements": "Completion of the Awowogei sub-quest of Recipe for Disaster\n 64 Magic and means to cast Ape Atoll teleport   2 2       2     1"
+      },
+      {
+        "task": "13. Pickpocket a gnome.",
+        "requirements": "75 Thieving"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Fletch a magic longbow in Tirannwn.",
+        "requirements": "Started Regicide for access to Tirannwn and teleport crystals\n 85 Fletching\nMagic longbow (u) and a bow string"
+      },
+      {
+        "task": "2. Kill the Thermonuclear smoke devil.",
+        "requirements": "93 Slayer(not boostable)\nWeapons and armour\nThe Slayer task is not required for this kill, however the Slayer level is required"
+      },
+      {
+        "task": "3. Have Prissy Scilla protect your magic tree.",
+        "requirements": "75 Farming\nMagic sapling, 25 coconuts, rake and spade"
+      },
+      {
+        "task": "4. Use the Elven overpass advanced cliffside shortcut.",
+        "requirements": "Completion of Underground Pass\n 85 Agility"
+      },
+      {
+        "task": "5. Equip any complete void set.",
+        "requirements": "40 Combat level,  22 Prayer and 42 in each of  Attack,  Strength,  Defence,  Hitpoints,  Ranged and  Magic\nVoid knight top, robe and gloves, and the Void mage helm, ranged helm or melee helm"
+      },
+      {
+        "task": "6. Claim a Chompy bird hat from Rantz after registering at least 1,000 kills.Requires killing 1,000 chompy or jubbly birds and having the (comp) ogre bow in inventory.",
+        "requirements": "Completion of Big Chompy Bird Hunting\nOgre bellows, (comp) ogre bow and ogre or brutal arrows"
+      },
+      {
+        "task": "7. Pickpocket an elf.",
+        "requirements": "Started Mourning's End Part I\n 85 Thieving"
+      }
+    ]
+  },
+  "Wilderness": {
+    "Easy": [
+      {
+        "task": "1. Cast Low Alchemy at the Fountain of Rune.",
+        "requirements": "21 Magic\nAny item that can be alchemised"
+      },
+      {
+        "task": "2. Enter the Wilderness from the Ardougne or Edgeville lever.",
+        "requirements": "None"
+      },
+      {
+        "task": "3. Pray at the Chaos Altar in level 38, western Wilderness.",
+        "requirements": "None"
+      },
+      {
+        "task": "4. Enter the Chaos Runecrafting temple (entering through the Tunnel of Chaos  or Guardians of the Rift will not complete the task).",
+        "requirements": "Chaos talisman or tiara, or access to the Abyss"
+      },
+      {
+        "task": "5. Kill a mammoth (south-east of the Ferox Enclave).",
+        "requirements": "Weaponry"
+      },
+      {
+        "task": "6. Kill an earth warrior in the Wilderness beneath Edgeville.",
+        "requirements": "15 Agility\nWeaponry"
+      },
+      {
+        "task": "7. Restore some Prayer points at the Demonic Ruins.",
+        "requirements": "None"
+      },
+      {
+        "task": "8. Enter the King Black Dragon Lair.",
+        "requirements": "None"
+      },
+      {
+        "task": "9. Collect 5 red spider's eggs from the Wilderness (can be found in the northern part of the Edgeville Dungeon).Players can drop and pick up the same spider egg five times.",
+        "requirements": "None"
+      },
+      {
+        "task": "10. Mine some iron ore in the Wilderness.",
+        "requirements": "15 Mining\nAny pickaxe"
+      },
+      {
+        "task": "11. Have the Mage of Zamorak teleport you to the Abyss.",
+        "requirements": "Completion of Enter the Abyss"
+      },
+      {
+        "task": "12. Equip any team cape in the Wilderness (entering the Wilderness with one already equipped does not count).",
+        "requirements": "Any team cape"
+      }
+    ],
+    "Medium": [
+      {
+        "task": "1. Mine some mithril ore in the Wilderness.",
+        "requirements": "55 Mining\nAny pickaxe"
+      },
+      {
+        "task": "2. Chop some yew logs from an ent (must be within the Wilderness).",
+        "requirements": "61 Woodcutting(not boostable)\nAny axe, preferably rune or better."
+      },
+      {
+        "task": "3. Enter the Wilderness God Wars Dungeon.",
+        "requirements": "60 Agility or  60 Strength\nTip: With  50 Slayer; some weaponry, armour, and God equipment to keep the gods' followers passive; kill a bloodveld to complete another medium task there.\nTip: With  68 Slayer; some weaponry, armour, and God equipment to keep the gods' followers passive; kill a Spiritual warrior to complete a hard task there."
+      },
+      {
+        "task": "4. Complete a lap of the Wilderness Agility Course.",
+        "requirements": "52 Agility"
+      },
+      {
+        "task": "5. Kill a green dragon (must be within the Wilderness).",
+        "requirements": "Weaponry and protection from dragonfire (e.g. super antifire potion)"
+      },
+      {
+        "task": "6. Kill an ankou in the Wilderness.",
+        "requirements": "Weaponry"
+      },
+      {
+        "task": "7. Charge an earth orb.",
+        "requirements": "60 Magic and means to cast Charge Earth Orb ( 30       3             and an unpowered orb)"
+      },
+      {
+        "task": "8. Kill a bloodveld in the Wilderness God Wars Dungeon.",
+        "requirements": "50 Slayer\nWeaponry and God equipment to keep the gods' followers passive.\nCan be safespotted in the south-western corner. This will require a Saradomin item and a Zamorak item.\nTip: Kill a Spiritual warrior as well (requires  68 Slayer) to complete a hard Wilderness diary task"
+      },
+      {
+        "task": "9. Talk to the Emblem Trader in Edgeville about emblems.",
+        "requirements": "None"
+      },
+      {
+        "task": "10. Smith a Gold helmet in the Resource Area.Note that you cannot do this while you already have a gold helmet in your inventory or bank. This must be removed first.",
+        "requirements": "Partial completion of Between a Rock...\n 50 Smithing\n7500 coins, 3 gold bars and a hammer\nNOTE: you can only have a single Gold helmet at a time. Make sure to drop one if you have it in your bank.\nTip: Mine some mithril ore with a pickaxe to complete another medium task there\nTip: You can also bring 2 adamantite bars and smith an adamant scimitar here to complete a hard task"
+      },
+      {
+        "task": "11. Open the muddy chest in the Lava Maze.",
+        "requirements": "Muddy key and a knife or slashing weapon; food and armour strongly recommended\nTip: Fish a Raw lava eel here to complete a hard Wilderness diary task, requiring  53 Fishing, Oily fishing rod, and fishing bait."
+      }
+    ],
+    "Hard": [
+      {
+        "task": "1. Cast any of the three God spells against another player in the Wilderness (splashing does not count).",
+        "requirements": "Completion of Mage Arena I\nAny staff that can cast god spells and the runes to cast one of them (1-4  1-4   2               )\nThe spell must not splash, otherwise the task will not be completed.\nNote: God spells can always be cast within the Mage Arena. Casting any God spell on a player while inside the Mage Arena will count for the achievement, without unlocking it for outside use.However, to unlock the ability to cast a god spell outside of the arena, you must first cast it 100 times there."
+      },
+      {
+        "task": "2. Charge an air orb.",
+        "requirements": "66 Magic and means to cast Charge Air Orb (30        3             and an unpowered orb)"
+      },
+      {
+        "task": "3. Catch a black salamander.",
+        "requirements": "67 Hunter\nSmall fishing net and a rope"
+      },
+      {
+        "task": "4. Smith an adamant scimitar in the Resource Area.",
+        "requirements": "75 Smithing\nHammer, 6000 coins (or 7500 if the medium diary rewards have not been claimed yet) and 2 adamantite bars\nTip: Cut and burn some Magic logs here for an elite task, requiring  75 Woodcutting and  75 Firemaking, a Tinderbox, and any axe"
+      },
+      {
+        "task": "5. Kill a lava dragon on Lava Dragon Isle.",
+        "requirements": "Weaponry and protection from dragonfire (e.g. super antifire potion)"
+      },
+      {
+        "task": "6. Kill the Chaos Elemental.",
+        "requirements": "Combat equipment"
+      },
+      {
+        "task": "7. Kill the Crazy archaeologist, Chaos Fanatic & Scorpia.Note: Completing or updating any other task, including those from other diaries, will reset the progress for this task.",
+        "requirements": "Combat equipment"
+      },
+      {
+        "task": "8. Take the Agility shortcut from Trollheim into the Wilderness.\nNote: This shortcut is the one due east of Trollheim, NOT the northern one near God Wars Dungeon.",
+        "requirements": "64 Agility\n  Partial completion of Troll Stronghold (or completion of  Easy Combat Achievements to use the Ghommal's hilt 1 teleport)"
+      },
+      {
+        "task": "9. Kill a spiritual warrior in the Wilderness God Wars Dungeon.",
+        "requirements": "68 Slayer\nWeaponry and God equipment to keep the gods' followers passive.\nTip: Also kill a spiritual mage to complete a Wilderness elite diary task."
+      },
+      {
+        "task": "10. Fish some raw lava eel in the Wilderness.",
+        "requirements": "53 Fishing\n 25 Herblore (Optional: to make blamish oil for the oily fishing rod)\nOily fishing rod, fishing bait and a knife or slashing weapon"
+      }
+    ],
+    "Elite": [
+      {
+        "task": "1. Kill Callisto, Venenatis, and Vet'ion.Note: Completing or updating any other task, including those from other diaries, will reset the progress for this task. Lesser versions of the boss (Artio, Spindel, and Calvar'ion) count towards this task as well.",
+        "requirements": "Combat equipment"
+      },
+      {
+        "task": "2. Teleport to Ghorrock.",
+        "requirements": "Completion of Desert Treasure I\n 96 Magic and means to cast Ghorrock Teleport (   8       2          )"
+      },
+      {
+        "task": "3. Fish and cook a dark crab in the Resource Area.",
+        "requirements": "85 Fishing and  90 Cooking\nLobster pot, dark fishing bait and 3750 coins (or 7500/6000 if the medium/hard diary rewards have not been claimed yet)"
+      },
+      {
+        "task": "4. Smith a rune scimitar from scratch in the Resource Area.\nYou must kill two Runite Golems and mine them, then smelt the ore in the nearby furnace and smith the scimitar on the anvil. The 16 coal does not need to be mined and can be brought with you prior. \nNote: Completing or updating any other task, including those from other diaries, will reset the progress for this task.",
+        "requirements": "85 Mining and  90 Smithing\nWeaponry, any pickaxe, hammer, 16 coal (can be mined there) and 3750 coins (or 7500/6000 if the medium/hard diary rewards have not been claimed yet)"
+      },
+      {
+        "task": "5. Steal from the Rogues' castle chest.",
+        "requirements": "84 Thieving"
+      },
+      {
+        "task": "6. Kill a spiritual mage inside the Wilderness God Wars Dungeon.",
+        "requirements": "83 Slayer and either  60 Agility or  60 Strength\nWeaponry and God equipment to keep the gods' followers passive."
+      },
+      {
+        "task": "7. Cut and burn some magic logs in the Resource Area.\nNote: Logs burnt from Infernal axe passive do not count towards this task.",
+        "requirements": "75 Woodcutting and  75 Firemaking\nAny axe, tinderbox and 3750 coins (or 7500/6000 if the medium/hard diary rewards have not been claimed yet). Alternatively, you can use the premade fire in the resource area instead of bringing a Tinderbox."
+      }
+    ]
+  }
+}
