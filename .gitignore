@@ -21,7 +21,7 @@ build/
 *.swp
 
 # Ignore sensitive or environment-specific files
-config.js
+config.json
 .env
 
 # Ignore files specific to your development environment

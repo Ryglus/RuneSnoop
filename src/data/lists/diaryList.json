@@ -102,7 +102,7 @@
         "requirements": "66 Magic"
       },
       {
-        "task": "3. Attempt to steal from a chest in Ardougne Castle.",
+        "task": "3. Steal from a chest in Ardougne Castle.",
         "requirements": "72 Thieving\nLockpick is recommended"
       },
       {
@@ -331,7 +331,7 @@
       },
       {
         "task": "4. Speak to the Kq head in your POH.",
-        "requirements": "Completion of Priest in Peril\n 78 Construction\nStuffed kq head, 2 mahogany planks, 2 gold leaves, a saw and a hammer\n15,000 coins are required if the player hasn't yet built a Skill Hall in their house"
+        "requirements": "Completion of Priest in Peril\n 78 Construction\nStuffed kq head or stuffed kq head (tattered), 2 mahogany planks, 2 gold leaves, a saw and a hammer\n15,000 coins are required if the player hasn't yet built a Skill Hall in their house"
       },
       {
         "task": "5. Steal from the Grand Gold Chest in the final room of Pyramid Plunder.",
@@ -587,7 +587,7 @@
       },
       {
         "task": "6. Catch a Snowy knight (just north-west of DKS).",
-        "requirements": "35 Hunter\nButterfly net and butterfly jar"
+        "requirements": "35 Hunter\nButterfly net and butterfly jar (not required if caught barehanded, but this requires 45 Hunter)"
       },
       {
         "task": "7. Pick up your pet rock from your POH menagerie.Use your pet rock on a pet house inside your house, then retrieve it off the ground, not in \"building mode\"",

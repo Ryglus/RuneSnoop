@@ -1,6 +1,6 @@
 {
   "username": "Ryglit",
-  "timestamp": "2024-08-27T13:00:00.421Z",
+  "timestamp": "2024-08-28T10:15:00.629Z",
   "quests": {
     "A Kingdom Divided": 0,
     "A Night at the Theatre": 0,
@@ -16590,168 +16590,168 @@
     {
       "id": 0,
       "name": "Overall",
-      "rank": 919427,
+      "rank": 919662,
       "level": 1656,
       "xp": 40704619
     },
     {
       "id": 1,
       "name": "Attack",
-      "rank": 1861281,
+      "rank": 1862028,
       "level": 68,
       "xp": 622315
     },
     {
       "id": 2,
       "name": "Defence",
-      "rank": 1554237,
+      "rank": 1554773,
       "level": 70,
       "xp": 742937
     },
     {
       "id": 3,
       "name": "Strength",
-      "rank": 1020833,
+      "rank": 1021162,
       "level": 88,
       "xp": 4707129
     },
     {
       "id": 4,
       "name": "Hitpoints",
-      "rank": 1207057,
+      "rank": 1207587,
       "level": 84,
       "xp": 3200341
     },
     {
       "id": 5,
       "name": "Ranged",
-      "rank": 1099250,
+      "rank": 1099606,
       "level": 85,
       "xp": 3279591
     },
     {
       "id": 6,
       "name": "Prayer",
-      "rank": 1550142,
+      "rank": 1550624,
       "level": 56,
       "xp": 202456
     },
     {
       "id": 7,
       "name": "Magic",
-      "rank": 1690575,
+      "rank": 1691329,
       "level": 73,
       "xp": 1057586
     },
     {
       "id": 8,
       "name": "Cooking",
-      "rank": 1231149,
+      "rank": 1231483,
       "level": 71,
       "xp": 819979
     },
     {
       "id": 9,
       "name": "Woodcutting",
-      "rank": 700481,
+      "rank": 700634,
       "level": 78,
       "xp": 1797849
     },
     {
       "id": 10,
       "name": "Fletching",
-      "rank": 1041617,
+      "rank": 1041802,
       "level": 71,
       "xp": 832093
     },
     {
       "id": 11,
       "name": "Fishing",
-      "rank": 582611,
+      "rank": 582677,
       "level": 81,
       "xp": 2308986
     },
     {
       "id": 12,
       "name": "Firemaking",
-      "rank": 180098,
+      "rank": 180102,
       "level": 99,
       "xp": 13098486
     },
     {
       "id": 13,
       "name": "Crafting",
-      "rank": 975853,
+      "rank": 976137,
       "level": 71,
       "xp": 822397
     },
     {
       "id": 14,
       "name": "Smithing",
-      "rank": 1334549,
+      "rank": 1335005,
       "level": 61,
       "xp": 309803
     },
     {
       "id": 15,
       "name": "Mining",
-      "rank": 896524,
+      "rank": 896885,
       "level": 73,
       "xp": 1001850
     },
     {
       "id": 16,
       "name": "Herblore",
-      "rank": 1052855,
+      "rank": 1053200,
       "level": 61,
       "xp": 323380
     },
     {
       "id": 17,
       "name": "Agility",
-      "rank": 268959,
+      "rank": 268985,
       "level": 83,
       "xp": 2866620
     },
     {
       "id": 18,
       "name": "Thieving",
-      "rank": 947811,
+      "rank": 948553,
       "level": 65,
       "xp": 481251
     },
     {
       "id": 19,
       "name": "Slayer",
-      "rank": 1145405,
+      "rank": 1145647,
       "level": 69,
       "xp": 679662
     },
     {
       "id": 20,
       "name": "Farming",
-      "rank": 1038745,
+      "rank": 1039081,
       "level": 69,
       "xp": 698121
     },
     {
       "id": 21,
       "name": "Runecraft",
-      "rank": 796346,
+      "rank": 796623,
       "level": 60,
       "xp": 295042
     },
     {
       "id": 22,
       "name": "Hunter",
-      "rank": 1239179,
+      "rank": 1239632,
       "level": 60,
       "xp": 274433
     },
     {
       "id": 23,
       "name": "Construction",
-      "rank": 1043728,
+      "rank": 1044024,
       "level": 60,
       "xp": 282312
     }
@@ -16830,7 +16830,7 @@
     "Crazy Archaeologist": {
       "id": 32,
       "score": 27,
-      "rank": 237244
+      "rank": 237333
     },
     "Dagannoth Prime": {
       "id": 33,
@@ -16850,7 +16850,7 @@
     "Deranged Archaeologist": {
       "id": 36,
       "score": 82,
-      "rank": 7477
+      "rank": 7482
     },
     "Duke Sucellus": {
       "id": 37,
@@ -16970,7 +16970,7 @@
     "Tempoross": {
       "id": 60,
       "score": 447,
-      "rank": 22664
+      "rank": 22693
     },
     "The Gauntlet": {
       "id": 61,
@@ -17050,7 +17050,7 @@
     "Wintertodt": {
       "id": 76,
       "score": 545,
-      "rank": 188095
+      "rank": 188128
     },
     "Zalcano": {
       "id": 77,
@@ -17097,27 +17097,27 @@
     "Clue Scrolls (all)": {
       "id": 6,
       "score": 21,
-      "rank": 914280
+      "rank": 914545
     },
     "Clue Scrolls (beginner)": {
       "id": 7,
       "score": 3,
-      "rank": 942864
+      "rank": 943227
     },
     "Clue Scrolls (easy)": {
       "id": 8,
       "score": 7,
-      "rank": 642713
+      "rank": 642875
     },
     "Clue Scrolls (medium)": {
       "id": 9,
       "score": 2,
-      "rank": 1199961
+      "rank": 1200121
     },
     "Clue Scrolls (hard)": {
       "id": 10,
       "score": 9,
-      "rank": 732842
+      "rank": 732979
     },
     "Clue Scrolls (elite)": {
       "id": 11,
@@ -17132,7 +17132,7 @@
     "LMS - Rank": {
       "id": 13,
       "score": 653,
-      "rank": 136990
+      "rank": 137022
     },
     "PvP Arena - Rank": {
       "id": 14,
@@ -17147,7 +17147,7 @@
     "Rifts closed": {
       "id": 16,
       "score": 54,
-      "rank": 369007
+      "rank": 369284
     },
     "Colosseum Glory": {
       "id": 17,

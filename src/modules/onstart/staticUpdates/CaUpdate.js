@@ -4,9 +4,32 @@ const cheerio = require('cheerio');
 const cron = require('node-cron');
 
 async function handleUpdate() {
-    let cas = {info: await CaOverViewScrape(),tasks: await CaTaskScrape()}
-    
-    fs.writeFileSync("./src/data/lists/caTaskList.json", JSON.stringify(cas, null, 2));
+    try {
+        const filePath = "./src/data/lists/caTaskList.json";
+        const existingData = JSON.parse(fs.readFileSync(filePath));
+
+        // Fetch new data
+        const newInfo = await CaOverViewScrape();
+        const newTasks = await CaTaskScrape();
+
+        // Update the existing 'info' with new data, keeping 'img' if present
+        Object.keys(newInfo).forEach(tier => {
+            if (existingData.info[tier]) {
+                existingData.info[tier] = {
+                    ...existingData.info[tier], // Retain existing fields
+                    ...newInfo[tier] // Overwrite or add new fields
+                };
+            } else {
+                existingData.info[tier] = newInfo[tier];
+            }
+        });
+
+        existingData.tasks = newTasks;
+
+        fs.writeFileSync("./src/data/lists/caTaskList.json", JSON.stringify(existingData, null, 2));
+    } catch (error) {
+        console.error('Error handling the update:', error);
+    }
 }
 
 async function CaOverViewScrape() {
@@ -86,7 +109,7 @@ async function CaTaskScrape() {
     }
 }
 
-
+handleUpdate()
 
 cron.schedule('0 20 * * 3', () => {
     handleUpdate()
