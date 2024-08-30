@@ -109,8 +109,6 @@ async function CaTaskScrape() {
     }
 }
 
-handleUpdate()
-
 cron.schedule('0 20 * * 3', () => {
     handleUpdate()
 });

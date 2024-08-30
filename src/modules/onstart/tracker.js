@@ -90,9 +90,11 @@ async function track(rsn) {
 
     const compareBosses = (newBosses, prevBosses) => {
         for (const boss in newBosses) {
-            if (newBosses[boss].score !== prevBosses[boss].score) {
-                const message = `⚔️ **${rsn}** has slain '${boss}': ~~${prevBosses[boss].score}~~ -> ${newBosses[boss].score}`;
-                sendToDiscord(message);
+            if (prevBosses.hasOwnProperty(boss)) {
+                if (newBosses[boss].score !== prevBosses[boss].score) {
+                    const message = `⚔️ **${rsn}** has slain '${boss}': ~~${prevBosses[boss].score}~~ -> ${newBosses[boss].score}`;
+                    sendToDiscord(message);
+                }
             }
         }
     };
@@ -148,7 +150,8 @@ cron.schedule('0,15,30,45 * * * *', async () => {
 init();
 
 async function init() {
-    const data = JSON.parse(await fs.readFileSync("./src/data/tracker/Ryglit.json"));
+    //const data = JSON.parse(await fs.readFileSync("./src/data/tracker/Ryglit.json"));
+    const data = await track('Ryglit');
     new goals(data);
     new quests(data);
     new roadmap(data);
