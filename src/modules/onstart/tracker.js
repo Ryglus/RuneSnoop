@@ -150,8 +150,8 @@ cron.schedule('0,15,30,45 * * * *', async () => {
 init();
 
 async function init() {
-    //const data = JSON.parse(await fs.readFileSync("./src/data/tracker/Ryglit.json"));
-    const data = await track('Ryglit');
+    const data = JSON.parse(await fs.readFileSync("./src/data/tracker/Ryglit.json"));
+    //const data = await track('Ryglit');
     new goals(data);
     new quests(data);
     new roadmap(data);
