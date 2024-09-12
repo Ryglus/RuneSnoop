@@ -53,6 +53,22 @@ const loadCommands = (dir) => {
 	}
 };
 
+const loadEvents = (dir) => {
+	const files = fs.readdirSync(dir, { withFileTypes: true });
+
+	for (const file of files) {
+		if (file.isDirectory()) {
+			loadEvents(path.join(dir, file.name));
+		} else if (file.name.endsWith('.js')) {
+			const event = require(path.join(dir, file.name));
+			if (event.once) {
+				client.once(event.name, (...args) => event.execute(...args));
+			} else {
+				client.on(event.name, (...args) => event.execute(...args));
+			}
+		}
+	}
+};
 
 // Function to load modules from directories (including subdirectories)
 let toLoad = [];
@@ -75,10 +91,11 @@ const loadModules = (dir) => {
 };
 
 const commandsDir = path.join(__dirname, '/src/commands');
+const eventsDir = path.join(__dirname, '/src/events');
 
 client.login(config.token);
 
 loadCommands(commandsDir);
-
+loadEvents(eventsDir);
 module.exports.client = client;
 

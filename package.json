@@ -5,10 +5,12 @@
     "cheerio": "^1.0.0-rc.12",
     "discord-bettermarkdown": "^2.1.1",
     "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
     "image-to-base64": "^2.2.0",
     "jsdom": "^24.1.0",
     "node-cron": "^3.0.3",
     "request": "^2.88.2",
-    "sharp": "^0.33.4"
+    "sharp": "^0.33.4",
+    "speakeasy": "^2.0.0"
   }
 }

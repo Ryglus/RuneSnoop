@@ -47,7 +47,7 @@ class overView {
         const canvas = createCanvas(tileWidth * tilesPerRow + padding * (tilesPerRow - 1), Math.ceil(tierCount.length / tilesPerRow) * (tileHeight + padding) - padding + 1);
 
         const ctx = canvas.getContext('2d');
-
+        //background
         ctx.drawImage(this.createTile(tileWidth * tilesPerRow + padding * (tilesPerRow - 1), Math.ceil(tierCount.length / tilesPerRow) * (tileHeight + padding) - padding + 1), 0, 0);
 
 
@@ -106,20 +106,21 @@ class overView {
 
         const sortedEntries = Object.entries(caList.info).sort(([, a], [, b]) => b["Points required for Rewards"] - a["Points required for Rewards"]);
         const foundEntry = sortedEntries.find(([, obj]) => obj["Points required for Rewards"] <= pointCount);
-
+        
         if (foundEntry) {
             const [title, details] = foundEntry;
             const [nexttitle, nextdetails] = Object.entries(caList.info).find(([key, obj]) => obj["Points required for Rewards"] > pointCount);
 
-
             const segmentsDone = Object.keys(caList.info).indexOf(title) + 1;
+            
+            let betterpercent = 0-(1 - (Number(nextdetails["Points in Tier"]) / (Number(nextdetails["Points in Tier"]) - Number(pointCount - details["Points required for Rewards"]))));
 
-            drawRoundedRect(ctx, 15, tileHeight - 40, (segmentsDone * tileWidth) + (tileWidth * (pointCount / nextdetails["Points required for Rewards"])) - 15, 30, 9, '#bc745c')
+
+            drawRoundedRect(ctx, 15, tileHeight - 40, (segmentsDone * tileWidth) + (tileWidth * betterpercent) - 15, 30, 9, '#bc745c')
             ctx.fillStyle = '#D1D1D1'; // White color
             ctx.font = '18px Arial';
             ctx.textAlign = 'center';
             ctx.textBaseline = 'middle';
-
             ctx.fillText(`${pointCount} (${nextdetails["Points required for Rewards"] - pointCount})`, (segmentsDone * tileWidth) + tileWidth / 2, tileHeight - 26);
         } else {
             console.log('No matching entry found');
@@ -148,7 +149,7 @@ class overView {
         const padding = 10;
 
         let miscimages = JSON.parse(fs.readFileSync('src/assets/misc_base64.json'));
-        let miscKeys = [["quests", "musicTracks"], ["collectionLog"], ["activities"]]
+        let miscKeys = [["quests", "musicTracks"], ["collectionLog"]]
 
         const canvas = createCanvas(tileWidth * tilesPerRow + padding * (tilesPerRow - 1), Math.ceil(miscKeys.length / tilesPerRow) * (tileHeight + padding) - padding + 1);
         const ctx = canvas.getContext('2d');
@@ -195,9 +196,10 @@ class overView {
                             return sum + (quest ? quest.qp : 0);
                         }, 0);
 
-                    ctx.font = '20px "Cinzel Decorative"';
-                    ctx.fillText(`Cq: ${completeCount}/${totalCount}`, x + sectionWidth / 2, y + 38);
-                    ctx.fillText(`Total QPs: ${totalQPs}`, x + sectionWidth / 2, y + 78); // Adjust y-position as needed
+                    ctx.textAlign = 'left';
+                    ctx.font = '30px "Cinzel Decorative"';
+                    ctx.fillText(`Completeness: ${completeCount}/${totalCount}`, x +100, y + 53);
+                    ctx.fillText(`Quest points: ${totalQPs}`, x +100, y + 93); // Adjust y-position as needed
 
                     if (!miscimages.hasOwnProperty(misc)) {
                         await requestBase64ImageFromWiki(misc.toLocaleLowerCase()).then((base64) => {
@@ -212,7 +214,7 @@ class overView {
                     }
                     const image = new Image();
                     image.onload = () => {
-                        drawImagePixelPerfect(ctx, image, x + 15, y + 15, 70, 70);
+                        drawImagePixelPerfect(ctx, image, x + 15, y + 37, 70, 70);
                     }
                     image.src = miscimages[misc];
 
@@ -229,18 +231,11 @@ class overView {
                 if (misc === "musicTracks") {
                     const musicTotal = Object.values(data.music_tracks).length;
                     const musicTotalComplete = Object.values(data.music_tracks).filter(track => track === true).length;
-                    ctx.font = '20px "Cinzel Decorative"';
-                    ctx.fillText(`Songs unlocked: ${musicTotalComplete - 6}/${musicTotal}`, x + sectionWidth / 2, y + 38);
+                    ctx.textAlign = 'center';
+                    ctx.textBaseline = 'middle';
+                    ctx.font = '30px "Cinzel Decorative"';
+                    ctx.fillText(`Songs unlocked: ${musicTotalComplete - 6}/${musicTotal}`, x + sectionWidth / 2, y + tileHeight /2);
 
-                    if (index != miscKeys[i].length - 1) {
-                        ctx.beginPath();
-                        ctx.moveTo(x + sectionWidth, y + 10);
-                        ctx.lineTo(x + sectionWidth, y + tileHeight - 10);
-                        ctx.strokeStyle = '#D1D1D1';
-                        ctx.lineWidth = 2;
-                        ctx.stroke();
-                        ctx.closePath();
-                    }
                 }
                 if (misc === "collectionLog") {
                     ctx.font = '40px "Cinzel Decorative"';
@@ -254,7 +249,7 @@ class overView {
                         }
                         const image = new Image();
                         image.onload = () => {
-                            drawImagePixelPerfect(ctx, image, x + 15 + (index * 100), y + 65, 70, 70);
+                            drawImagePixelPerfect(ctx, image, sectionWidth/4 + x + 15 + (index * 100), y + 65, 70, 70);
                         }
                         image.src = miscimages[item.name];
                     });

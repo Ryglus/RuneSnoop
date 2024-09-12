@@ -15,6 +15,7 @@ build/
 *.so
 *.dylib
 
+src/data/tracker/*
 # Ignore log files and temporary files
 *.log
 *.tmp
@@ -29,3 +30,4 @@ config.json
 .env.development.local
 .env.test.local
 .env.production.local
+
